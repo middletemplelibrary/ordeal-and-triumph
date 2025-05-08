@@ -23,9 +23,8 @@ Below are some of the items it featured.
        url="https://user-images.githubusercontent.com/110464039/185369660-04505869-ab0f-41db-9a46-5aeef33b4180.PNG">
 <br><br>
 # Middle Temple at War, 1939-1945
-
-#### ‘Middle Temple Ordeal: Being an Account of what World War II Meant to the Inn’, 1947
 <br><br>
+#### ‘Middle Temple Ordeal: Being an Account of what World War II Meant to the Inn’, 1947
 This volume, compiled by Kathleen Woodward, a member of the Inn and a writer, tells the story of the Inn’s experience of the Second World War. It was based on a wealth of first-hand accounts and recollections from members, residents and staff of the Middle Temple, many of which survive in their original form in the archive. 
 <param ve-image 
        label="Notice of a public meeting issued by Josephine Butler during the Pontefract by-election, 1872. Image courtesy of The Women’s Library, LSE" 
