@@ -20,7 +20,9 @@ At the Inn, members, residents and staff endured an ordeal of blackouts, bombing
 
 ##
 This volume, compiled by Kathleen Woodward, a member of the Inn and a writer, tells the story of the Inn’s experience of the Second World War. It was based on a wealth of first-hand accounts and recollections from members, residents and staff of the Middle Temple, many of which survive in their original form in the archive. 
+
 <param ve-image 
        label="‘Middle Temple Ordeal: Being an Account of what World War II Meant to the Inn’, 1947" 
        description="text" 
-       url=
+       url=![1a - Middle Temple Ordeal](https://github.com/user-attachments/assets/980749f5-d79f-452d-9904-c1eda706efd3)
+
