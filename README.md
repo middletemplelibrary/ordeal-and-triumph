@@ -28,4 +28,38 @@ This volume, compiled by Kathleen Woodward, a member of the Inn and a writer, te
 <param ve-image 
        label="Notice of a public meeting issued by Josephine Butler during the Pontefract by-election, 1872. Image courtesy of The Women’s Library, LSE" 
        description="text" 
+       url="https://user-images.githubusercontent.com/110464039/189089424-119a797b-c743-4216-b56a-fee4768d7ec7.jpg">       
+
+## Fragment of the Hall Screen
+<br><br>
+This fragment of wood is thought to have come from the Elizabethan screen in the Hall, blown to smithereens during the Blitz in October 1940.
+<param ve-image 
+       label="Notice of a public meeting issued by Josephine Butler during the Pontefract by-election, 1872. Image courtesy of The Women’s Library, LSE" 
+       description="text" 
+       url="https://user-images.githubusercontent.com/110464039/189089424-119a797b-c743-4216-b56a-fee4768d7ec7.jpg">
+       
+## Call to the Bar in the bomb-damaged Hall, Trinity 1941.
+<br><br>
+The Hall was badly damaged during the Blitz, in October 1940. The basic functions of the Inn continued, however, including the ancient ceremony of Call to the Bar.
+<br><br>
+This photograph shows a Call ceremony taking place with the shored-up hole made in the East gable of Hall above, with one of those being Called lined up in uniform. 
+<param ve-image 
+       label="Notice of a public meeting issued by Josephine Butler during the Pontefract by-election, 1872. Image courtesy of The Women’s Library, LSE" 
+       description="text" 
+       url="https://user-images.githubusercontent.com/110464039/189089424-119a797b-c743-4216-b56a-fee4768d7ec7.jpg">
+
+## Revellers on Fleet Street, Victory in Europe Day, 1945 
+<br><br>
+Victory in Europe was announced on 8 May 1945, following the surrender of Nazi Germany, triggering widespread jubilation. This photograph shows the celebrations on nearby Fleet Street, in which members, residents and staff of the Inn no doubt took part. 
+<param ve-image 
+       label="Notice of a public meeting issued by Josephine Butler during the Pontefract by-election, 1872. Image courtesy of The Women’s Library, LSE" 
+       description="text" 
+       url="https://user-images.githubusercontent.com/110464039/189089424-119a797b-c743-4216-b56a-fee4768d7ec7.jpg">
+
+## Fragment of the Hall Screen
+<br><br>
+This fragment of wood is thought to have come from the Elizabethan screen in the Hall, blown to smithereens during the Blitz in October 1940.
+<param ve-image 
+       label="Notice of a public meeting issued by Josephine Butler during the Pontefract by-election, 1872. Image courtesy of The Women’s Library, LSE" 
+       description="text" 
        url="https://user-images.githubusercontent.com/110464039/189089424-119a797b-c743-4216-b56a-fee4768d7ec7.jpg">
