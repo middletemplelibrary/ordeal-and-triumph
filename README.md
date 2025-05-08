@@ -16,9 +16,4 @@ Welcome to Middle Temple Library’s exhibition on Middle Temple at war, 1939-19
 At the Inn, members, residents and staff endured an ordeal of blackouts, bombing, shortages and an ever-changing environment, and worked ceaselessly to protect the Middle Temple and its community from danger. Countless Middle Templars made their own remarkable contributions to the wider war effort - at home and abroad, in the law, in uniform or civilian dress. The exhibition illuminates a handful of their stories, as well as the presence of members of the Inn at the Nuremberg Trials. 
 <br><br>
 
-IMAGE TAG:
-<param ve-image 
-       label="Colquhoun, Patrick. 1800. A Treatise on the Commerce and Police of the River Thames ”
-       description="Photograph" 
-       license="CC BY-SA 4.0"
-       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0051.JPG">
+## ‘Middle Temple Ordeal: Being an Account of what World War II Meant to the Inn’, 1947
