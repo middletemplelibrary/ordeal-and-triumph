@@ -22,7 +22,9 @@ Below are some of the items it featured.
        description="text" 
        url="https://user-images.githubusercontent.com/110464039/185369660-04505869-ab0f-41db-9a46-5aeef33b4180.PNG">
 
-## ‘Middle Temple Ordeal: Being an Account of what World War II Meant to the Inn’, 1947
+# Middle Temple at War, 1939-1945
+
+#### ‘Middle Temple Ordeal: Being an Account of what World War II Meant to the Inn’, 1947
 <br><br>
 This volume, compiled by Kathleen Woodward, a member of the Inn and a writer, tells the story of the Inn’s experience of the Second World War. It was based on a wealth of first-hand accounts and recollections from members, residents and staff of the Middle Temple, many of which survive in their original form in the archive. 
 <param ve-image 
@@ -30,7 +32,7 @@ This volume, compiled by Kathleen Woodward, a member of the Inn and a writer, te
        description="text" 
        url="https://user-images.githubusercontent.com/110464039/189089424-119a797b-c743-4216-b56a-fee4768d7ec7.jpg">       
 
-## Fragment of the Hall Screen
+#### Fragment of the Hall Screen
 <br><br>
 This fragment of wood is thought to have come from the Elizabethan screen in the Hall, blown to smithereens during the Blitz in October 1940.
 <param ve-image 
@@ -38,7 +40,7 @@ This fragment of wood is thought to have come from the Elizabethan screen in the
        description="text" 
        url="https://user-images.githubusercontent.com/110464039/189089424-119a797b-c743-4216-b56a-fee4768d7ec7.jpg">
        
-## Call to the Bar in the bomb-damaged Hall, Trinity 1941.
+#### Call to the Bar in the bomb-damaged Hall, Trinity 1941.
 <br><br>
 The Hall was badly damaged during the Blitz, in October 1940. The basic functions of the Inn continued, however, including the ancient ceremony of Call to the Bar.
 <br><br>
@@ -48,7 +50,7 @@ This photograph shows a Call ceremony taking place with the shored-up hole made 
        description="text" 
        url="https://user-images.githubusercontent.com/110464039/189089424-119a797b-c743-4216-b56a-fee4768d7ec7.jpg">
 
-## Revellers on Fleet Street, Victory in Europe Day, 1945 
+#### Revellers on Fleet Street, Victory in Europe Day, 1945 
 <br><br>
 Victory in Europe was announced on 8 May 1945, following the surrender of Nazi Germany, triggering widespread jubilation. This photograph shows the celebrations on nearby Fleet Street, in which members, residents and staff of the Inn no doubt took part. 
 <param ve-image 
@@ -56,10 +58,16 @@ Victory in Europe was announced on 8 May 1945, following the surrender of Nazi G
        description="text" 
        url="https://user-images.githubusercontent.com/110464039/189089424-119a797b-c743-4216-b56a-fee4768d7ec7.jpg">
 
-## Fragment of the Hall Screen
+#### Fragment of the Hall Screen
 <br><br>
 This fragment of wood is thought to have come from the Elizabethan screen in the Hall, blown to smithereens during the Blitz in October 1940.
 <param ve-image 
        label="Notice of a public meeting issued by Josephine Butler during the Pontefract by-election, 1872. Image courtesy of The Women’s Library, LSE" 
        description="text" 
        url="https://user-images.githubusercontent.com/110464039/189089424-119a797b-c743-4216-b56a-fee4768d7ec7.jpg">
+
+# Preparations for War
+<br><br>
+As the international situation became increasingly perilous in the late 1930s, the expectation of war spread, and soon preparations were afoot across the land, including at the Inn. In 1938 a committee was appointed to ‘consider protection against air attack’ and the Surveyor was instructed to prepare air raid shelters. While the Munich Agreement of 1938 offered a brief reprieve, by the summer of 1939 war looked inevitable. A joint ARP committee with Inner Temple was formed and volunteers sought to act as fire-fighters, wardens, stretcher bearers and first aiders. Instruction was provided on fire-fighting, gas attacks and first aid, and supplies of medicine, equipment and clothing were ordered. Many of the Inn’s prized collections were stored or sent away for safety, including stained glass, paintings, silver and the archives. The Second World War began on 1 September 1939, and the Minutes of the Inn’s Parliament on 18 September record that: “Master Treasurer reported that the Air Raid Precautions arrangements were complete”. The Standing Orders were suspended, dining terms cancelled and the whole governance of the Inn left in the hands of a Special War Committee of three Benchers. 
+
+#### 
