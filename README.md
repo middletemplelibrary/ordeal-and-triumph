@@ -24,5 +24,5 @@ This volume, compiled by Kathleen Woodward, a member of the Inn and a writer, te
 <param ve-image 
        label="‘Middle Temple Ordeal: Being an Account of what World War II Meant to the Inn’, 1947" 
        description="text" 
-       url=![1a - Middle Temple Ordeal](https://github.com/user-attachments/assets/980749f5-d79f-452d-9904-c1eda706efd3)
+       url=(https://github.com/user-attachments/assets/980749f5-d79f-452d-9904-c1eda706efd3)
 
