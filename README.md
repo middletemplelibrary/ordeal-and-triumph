@@ -51,8 +51,11 @@ This fragment of wood is thought to have come from the Elizabethan screen in the
        label="Notice of a public meeting issued by Josephine Butler during the Pontefract by-election, 1872. Image courtesy of The Women’s Library, LSE" 
        description="text" 
        url="https://user-images.githubusercontent.com/110464039/189089424-119a797b-c743-4216-b56a-fee4768d7ec7.jpg">
+<br><br>
 
 # Preparations for War
+<br><br>
 As the international situation became increasingly perilous in the late 1930s, the expectation of war spread, and soon preparations were afoot across the land, including at the Inn. In 1938 a committee was appointed to ‘consider protection against air attack’ and the Surveyor was instructed to prepare air raid shelters. While the Munich Agreement of 1938 offered a brief reprieve, by the summer of 1939 war looked inevitable. A joint ARP committee with Inner Temple was formed and volunteers sought to act as fire-fighters, wardens, stretcher bearers and first aiders. Instruction was provided on fire-fighting, gas attacks and first aid, and supplies of medicine, equipment and clothing were ordered. Many of the Inn’s prized collections were stored or sent away for safety, including stained glass, paintings, silver and the archives. The Second World War began on 1 September 1939, and the Minutes of the Inn’s Parliament on 18 September record that: “Master Treasurer reported that the Air Raid Precautions arrangements were complete”. The Standing Orders were suspended, dining terms cancelled and the whole governance of the Inn left in the hands of a Special War Committee of three Benchers. 
+<br><br>
 
-#### 
+#### ARP Training Notice, 1939
