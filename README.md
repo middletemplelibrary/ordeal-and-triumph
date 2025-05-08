@@ -4,6 +4,6 @@
 <param ve-config 
        title="Watchmen, Charlies, Peelers: The Story of Policing"
        author="Middle Temple Library"
-       banner="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0052.JPG"
+       banner="https://github.com/user-attachments/assets/9de956be-64d0-472f-8dc2-47b284dfc511.JPG"
        layout="vertical">
 
