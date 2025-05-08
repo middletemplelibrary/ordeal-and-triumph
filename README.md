@@ -22,7 +22,6 @@ Below are some of the items it featured.
        description="text" 
        url="https://user-images.githubusercontent.com/110464039/185369660-04505869-ab0f-41db-9a46-5aeef33b4180.PNG">
 <br><br>
-
 # Middle Temple at War, 1939-1945
 <br><br>
 2025 marks eighty years since the end of the Second World War. Using material from the Inn’s Archive and Library collections, this exhibition explores the wartime experience of the Middle Temple and its members. At the Inn, members, residents and staff endured an ordeal of blackouts, bombing, shortages and an ever-changing environment, and worked ceaselessly to protect the Middle Temple and its community from danger. Countless Middle Templars made their own remarkable contributions to the wider war effort - at home and abroad, in the law, in uniform or civilian dress. The exhibition illuminates a handful of their stories, as well as the presence of members of the Inn at the Nuremberg Trials. 
