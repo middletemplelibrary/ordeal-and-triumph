@@ -4,7 +4,7 @@
        banner="https://user-images.githubusercontent.com/110464039/185409518-e9fe851a-02ec-4e77-9070-eb7bf609cb9d.JPG"
        layout="vertical">
 ## 
-Welcome to Middle Temple Library’s exhibition on Middle Temple at war, 1939-1945. 
+Welcome to Middle Temple Library’s exhibition on Middle Temple and the Second World War. 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
@@ -21,7 +21,7 @@ Below are some of the items it featured.
        label="Sex Disqualification (Removal) Act of 1919" 
        description="text" 
        url="https://user-images.githubusercontent.com/110464039/185369660-04505869-ab0f-41db-9a46-5aeef33b4180.PNG">
-
+<br><br>
 # Middle Temple at War, 1939-1945
 
 #### ‘Middle Temple Ordeal: Being an Account of what World War II Meant to the Inn’, 1947
