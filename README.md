@@ -9,6 +9,8 @@
 
 ##
 Welcome to Middle Temple Library’s exhibition on Middle Temple at war, 1939-1945.
+<param ve-image 
+       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
 ##
 2025 marks eighty years since the end of the Second World War. Using material from the Inn’s Archive and Library collections, this exhibition explores the wartime experience of the Middle Temple and its members. 
@@ -25,4 +27,3 @@ This volume, compiled by Kathleen Woodward, a member of the Inn and a writer, te
        label="‘Middle Temple Ordeal: Being an Account of what World War II Meant to the Inn’, 1947" 
        description="text" 
        url=(https://github.com/user-attachments/assets/980749f5-d79f-452d-9904-c1eda706efd3)
-
