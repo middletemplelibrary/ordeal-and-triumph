@@ -9,6 +9,7 @@
 ##
 Welcome to Middle Temple Library’s exhibition on Middle Temple at war, 1939-1945.
 
+##
 Middle Temple at War -1939-1945
 2025 marks eighty years since the end of the Second World War. Using material from the Inn’s Archive and Library collections, this exhibition explores the wartime experience of the Middle Temple and its members. 
 <br><br>
