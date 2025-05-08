@@ -99,3 +99,8 @@ The outbreak of war was followed by a cold, snowy winter and the enforcement of 
 The Inn was no exception to these rules, and ARP wardens patrolled the Temple by night, identifying violations - of which there were many. 
 <br><br>
 
+#### Volume recording Blackout Violations, 1940-1941
+This volume reports breaches of blackout regulations in the Temple and action taken, and remarks and complaints by shelter marshals. 
+
+#### Notice Regarding Blackout Violations, 1939
+This notice reminds residents of the importance of adhering to Blackout regulations, and notes the necessity of taking steps to extinguish lights around the Temple. 
