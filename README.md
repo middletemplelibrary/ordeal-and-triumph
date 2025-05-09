@@ -270,4 +270,37 @@ Image: IWM (CH 10739)
 A newspaper advertisement placed in 1961 requested information about members of the Inn killed on active service in the Second World War. These two letters, received in response, report the deaths of Major John Sydney Krill, killed in action in Melun, France in August 1944, and Alfred Maria de Lourde Soares, who died building the Siam Railway after Singapore had been overrun by the Japanese.
 
 #### Joyce Gutteridge 
-Gutteridge was Called to the Bar at the Inn in 1938, and at the outbreak of war became an army lawyer with the Auxiliary Territorial Service. She later played a key role in drafting the 1949 Geneva Conventions and worked for many years for the Foreign Office. 
+Gutteridge was Called to the Bar at the Inn in 1938, and at the outbreak of war became an army lawyer with the Auxiliary Territorial Service. She later played a key role in drafting the 1949 Geneva Conventions and worked for many years for the Foreign Office.
+
+#### Richard Orme Wilberforce, Baron Wilberforce (1907-2003) 
+Wilberforce, a descendant of the abolitionist, was Called in 1932, and volunteered for service at the outbreak of War, being commissioned into the Royal Artillery. He served as aide-de-camp to Major-General Bernard Paget during the Norwegian Campaign in 1940, later being in charge of Army entertainments for the War Office, and was attached to the Supreme Headquarters Allied Expeditionary Force in 1944. He drafted the German Instrument of Surrender signed on 8 May 1945. He returned to the law after the war and in 1964 became a Law Lord, retiring in 1982. 
+
+#### Memorial of Jocelyn ‘Jack’ Simon (1911-2006) 
+Jocelyn Edward Salis Simon was Called to the Bar in 1934. At the outbreak of the Second World War, he joined the Inns of Court Regiment and was commissioned as an officer in the Royal Tank Regiment, commanding a squadron of tanks in the invasion and liberation of Madagascar. He also fought in Burma and ended the war as a Lieutenant Colonel. 
+He served as an MP after the war, and in various government positions including Solicitor General under Harold Macmillan. He resigned from the cabinet in 1962 and became a High Court Judge and later a Law Lord.
+<br><br>
+<br><br>
+
+# NUREMBERG
+<br><br>
+Following the end of the war, the International Military Tribunal was convened in Nuremberg in occupied Germany, at which more than twenty of the most prominent surviving leaders of the Nazi regime were put on trial. 
+Proceedings began in November 1945, with prosecution teams representing the four convening victorious powers - the United Kingdom, the United States, France and the Soviet Union. Among the British delegation at Nuremberg were members of the Middle Temple, and the Chief Prosecutor for the United States, Robert H. Jackson, was descended from a former Under Treasurer of the Inn. The Tribunal concluded in October 1946.
+<br><br>
+
+#### The Courtroom at Nuremberg, 4 June 1946 
+This photograph shows the inside of the courtroom at Nuremberg. It depicts G.D. ‘Khaki’ Roberts, a member of the Inner Temple and one of the British prosecutors, cross-examining Alfred Jodl, who sits to the right in the witness box. Fellow defendants listen in the large dock to the left, under the eyes of white-helmeted U.S. guards.
+
+#### Members of the British delegation at Nuremberg 
+This photograph shows members the British delegation at the airport, including Sir David Maxwell Fyfe, Sir Henry MacGeagh and G.D. ‘Khaki’ Roberts.
+
+#### ‘Nurnberg’, Charles W. Alexander, 1946 
+This volume was donated to the Library by the Treasurer, Kenneth Carpmael, in 1961. Compiled by the photographer Charles W. Alexander, it contains photographs of the trials at Nuremberg as well as scenes from the city itself. The cover shows the Palace of Justice, where the trials were held. 
+
+#### Armorial Panel of Mervyn Griffith Jones (1909-1973) 
+Mervyn Griffith-Jones was Called to the Bar in 1932 and served with the Coldstream Guards during the Second World War, being awarded the MC. He was a junior prosecuting counsel in the British delegation at Nuremberg. He later led the prosecution of Penguin Books in the Lady Chatterley trial.
+
+#### Security of Isaac Jackson as Under Treasurer, 1717 
+Isaac Jackson served as Under Treasurer to the Inn from 1717 to 1726. His descendant, Robert H. Jackson, was an American Lawyer who served on the Supreme Court from 1941 to 1954. He was the United States Chief Prosecutor at Nuremberg, giving memorable opening and closing addresses before the court.
+
+#### Colonel Sir Henry Davies Foster MacGeagh (1883-1962), c1904 
+Henry MacGeagh was Called to the Bar at the Inn in 1906 and became a Bencher in 1931. He served as Judge Advocate General of the Armed Forces from 1934 to 1955, and was present among the British delegation at Nuremberg. 
