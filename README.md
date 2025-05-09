@@ -112,4 +112,162 @@ Image: IWM (Art.IWM PST 13872)
 <br><>br>
 
 # The Changing Environment
+<br><br>
+The ongoing war effort brought many changes to the physical environment of the Inn. From the digging of allotments in the garden to grow produce, in line with the national ‘Dig for Victory’ campaign, to the introduction of reservoirs and water pipes for firefighting, formerly ornamental spaces were put to practical use. The Middle Temple and the Inner Temple made a gift to the government of the iron railings surrounding the Temple Church. 
 
+Military uniforms were to be seen in increasing numbers in and around the Temple, with soldiers exercising in the garden, RAF men in charge of a nearby Barrage Balloon, and the requisitioning by the Royal Navy of the ‘Temple Steps’ on the Thames.
+<br><br>
+
+#### The Fountain transformed into a reservoir, 1941 
+A good supply of water was critical to efforts to fight fires resulting from bombing raids. The Inn’s 17th century fountain was transformed, at the request of the National Fire Service, into a reservoir for water in the summer of 1941.
+
+#### Plan of proposed pipe line, Middle Temple Lane, 1943 
+
+Throughout the war the Inn worked closely with the National Fire Service, housing and purchasing fire engines, hoses and pumps at their recommendation and request. In 1943, the NFS provided this plan, accompanying a request to bury a steel pipe under Middle Temple Lane to aid water supply for fire-fighting. 
+
+#### Allotments in Middle Temple Garden, 1942 
+By the summer of 1940, it was reported in the Observer that the old tennis courts in the garden had been converted into allotments, growing tomatoes, cabbages, and lines of beans. 
+
+#### ‘Dig for Victory’ poster, 1942 
+Image: IWM (Art.IWM PST 0059)
+
+#### The Kitchen Garden, 2025 
+Commemorating the Dig for Victory campaign, the kitchen garden will be growing heirloom and heritage varieties that would have been grown at the time of WW2. Varieties such as Tomato ‘Ailsa Craig’, Runner Bean ‘Painted Lady’, and Brussel Sprout ‘Long Island’. Companion planting of flowers and strongly scented herbs will ward off any unwanted pests, rather than using the chemicals of the 1940s such as Nicotine, DDT, and Paris Green. Please feel free to have a visit and taste a tomato or two.
+
+#### The Royal Rifle Corps in Middle Temple Garden, 1940s 
+This photograph shows members of the Royal Rifle Corps exercising in the garden. This memento was sent to the Inn after the war by the Sports and Physical Training Officer “in appreciation of your kindness in consenting to our using your ground for Physical Training for the troops”.
+<br><br>
+<br><br>
+
+# The Ordeal
+<br><br>
+After the long months of preparation and waiting, the Blitz began on 7 September 1940, and the first bombs fell on the Inn a few weeks later, hitting 1 Elm Court. The Under Treasurer, Fireman and Cashier were all fire-watching on top of 4 Elm Court when the building was hit. “Well, we thought that was enough of that”, wrote the Under Treasurer later on. Over the next weeks and months, hundreds more bombs would fall, causing catastrophic damage to chambers buildings, Temple Church, the Library and the Hall. 
+
+It was thanks to the preparation, training, endurance and bravery of the many volunteers that the damage was not greater still, and that no lives were lost in the Inn. 
+
+While the Blitz came to an end in May 1941, the ordeal was not yet over. Raids recommenced in 1944, causing further devastation to the buildings of the Inn.
+<br><br>
+
+#### Notice concerning Temple Air Raid Shelters, 1940 
+This notice highlights the importance of proper and safe use of the air raid shelters in the Temple, now required on a near-nightly basis. 
+
+#### Interior of Middle Temple Hall, October 1940 
+On the night of 15 October 1940, a parachute mine shattered several buildings and sent masonry and debris through the East Gable of the Hall, reducing much of the Elizabethan screen and Minstrels’ Gallery to smithereens.
+
+#### Middle Temple Lane, October 1940 
+This view down Middle Temple captures the aftermath of the devastation of 15 October 1940, in which Elm Court was destroyed and the Hall badly damaged.
+
+#### Elm Court, Autumn 1940 
+Elm Court was devastated during the Blitz, being hit on the first night on which bombs fell in the Temple, and then utterly destroyed on October 15. This photograph shows chambers interiors which have been revealed by the bombing.
+
+#### Wartime recollections of C.J. Liddell King, 1946 
+In this account C.J. Liddell King, a Temple resident and volunteer fire-watcher, vividly recalls the morning after the devastating raid of May 1941 in which the Temple Church was destroyed.
+
+#### Middle Temple Library, December 1940 
+On the night of 8 December 1940, a bomb fell in the garden, close to the Inn’s library. The south window was destroyed and bookcases were splintered and emptied of their books. This photograph shows three people surveying the aftermath.
+
+#### Pump Court, May 1941 
+This photograph shows damage to Pump Court following the devastating raid of May 10-11 1941. Water from firemen’s hoses floods the court, and the ruins of the Cloisters can be seen in the distance, with still-smouldering debris beyond.
+
+#### Temple Church Register, 1695-1756 
+During the raid of May 10-11, the Temple Church was devastated by bombing  and subsequent conflagration. The fire which tore through the church damaged the registers of baptisms, marriages and burials which had been kept for centuries: the blackened edges of the pages of this volume are testament to the intensity of the blaze.
+
+#### Hall Roof burning, March 1944 
+On the night of March 24-25, 1944, 140 incendiary bombs fell in the Middle Temple, starting nineteen fires, including a serious blaze on the roof of the Hall. With the aid of the National Fire Service, the Inn’s own fire-watchers and pump-crew fought the fire for hours, from inside and outside the Hall, until eventually, at about four in the morning, it was extinguished.
+
+#### Clearance of debris outside Temple Church, November 1941 
+The devastation of the Temple necessitated a seemingly never-ending clearance operation. In this photograph, taken some months after the end of the Blitz, two workmen tip debris down chutes into large barrels. The Round of the Temple Church, its roof utterly destroyed earlier that year, can be seen in the background.
+<br><br>
+<br><br>
+
+# The Aftermath of the War
+<br><br>
+Victory in Europe was declared on 8 May 1945, and the war came to an end later that summer. However, the long ordeal was far from over for the Middle Temple. Vast swathes of the estate lay in ruins, educational and collegiate life had been suspended for over half a decade, and hundreds of members of the Inn remained in military and civilian service both at home and abroad. 
+
+Giving a speech on the occasion of her Royal Bench Call in 1944, Queen Elizabeth (later the Queen Mother) had declared: “whilst our walls may crumble, this is of small account so long as the virtues and graces for which this Inn has ever stood continue unshaken and unshakeable. It is upon their foundation that you will rebuild; your Courts and Chambers will rise with a greater strength and a new beauty.” 
+
+Just as Her Majesty had predicted, in the long years following the war the Inn came gradually back to life amongst ongoing rationing and other privations, and new buildings rose up in place of old. Fittingly, the restored Hall was formally re-opened by the Queen in 1949.
+<br><br>
+
+#### Restoration of the Screen, 1940s
+After its destruction in 1940, the splintered fragments of the screen were gathered up into some 200 sacks. Following the war, these pieces were painstaking reassembled in what may be the biggest jigsaw puzzle in history, based on surviving drawings.
+
+#### Restoration work in Hall, c1946
+This photograph shows the restoration of Hall at an early stage, with work underway on the reconstruction of the screen and gallery.
+
+#### Application for increase of Rations and Points, 1947 
+In this note, the Under Treasurer writes to the Food Office with details of hot beverages and meals served at the Inn in the past four weeks. Rationing would not formally be ended until 1954.
+
+#### Queen Elizabeth at the re-opening of Hall, 1949
+By 1949, the Hall had been restored, and Queen Elizabeth, serving in that year as the Inn’s Treasurer, formally re-opened the building on July 6.
+<br><br>
+<br><br>
+
+# Intelligence, Government and the Home Front
+<br><br>
+Countless Middle Templars contributed to the war effort behind the scenes and at home - at the highest levels of military intelligence and government, as participants in the many organisations and initiatives which sprung up over the war years, and, often unrecorded, in their everyday lives.
+<br><br>
+
+#### Sir Eric Sachs (1898-1979) 
+Eric Sachs was Called in 1921 and became a KC in 1938. He joined the War Office at the outbreak of war and swiftly earned an MBE. In 1942 he was transferred to political warfare and was seconded to the Foreign Office. Here, he produced what became known as the Basic Handbooks (see nearby). He became a Bencher in 1947 and served as Treasurer in 1967, later establishing the Lord Justice Sachs Entrance Exhibition.
+
+#### Germany Basic Handbook, Volume 1, 1944 
+The Basic Handbooks were a series of volumes produced under the leadership of Master Eric Sachs as Director of the Directorate of Political Warfare Intelligence, covering in extensive detail enemy countries and those in enemy occupation. They encompass information on administration, politics, economics, history and national characteristics. 
+The goal of the handbooks was to provide guidance to Commanders-in-Chief and their staffs faced with the need to take over the administration of countries they had liberated or conquered.
+
+#### Ewen Edward Samuel Montagu (1901-1985) 
+A KC and Bencher of the Inn, Ewen Montagu was assigned to the Naval Intelligence Division early in the war. He was responsible for the conception of Operation Mincemeat, a now famous deception operation carried out in 1943. The operation involved a corpse dressed in British military uniform being washed ashore in Spain carrying false papers relating to plans for an invasion of Greece. The operation fooled the Germans, who diverted their forces to Greece and thus away from Sicily, where the real invasion was to take place.
+
+#### The Man Who Never Was, 1953 
+Montagu told his story in The Man Who Never Was. The book was later adapted for the cinema in 1956 under the same title. The story has since been retold in another film, Operation Mincemeat in 2022, and as a popular West End musical.
+
+#### Elsie Bowerman (1889-1973) 
+Elsie Bowerman was Called to the Bar in 1924. Before joining the Inn, she had survived the sinking of the Titanic, witnessed the start of the Russian Revolution in Petrograd, and been active in the suffrage movement.
+During the Second World War, she worked at the Ministry of Information and with the Women’s Voluntary Service. Following the war she helped to set up the UN Commission on the Status of Women.
+
+#### Sir Stafford Cripps (1889-1952) 
+Stafford Cripps was Called in 1913 and appointed KC in 1926, and later became a Labour Party politician, serving as Solicitor General from 1931 under Ramsay MacDonald. 
+Cripps was appointed Ambassador to the Soviet Union by Churchill in 1940, and helped to forge the alliance with Moscow following Hitler’s invasion in 1941. He served in various wartime cabinet positions including Leader of the House of Commons and Minister of Aircraft Production, in which he played a key role in support of Air Chief Marshal Harris’ bombing campaign against Germany. He later served in the Attlee government from 1945 to 1950.
+
+#### Stella Isaacs, Marchioness of Reading and Baroness Swanborough (1894-1971) 
+Stella Isaacs was the widow of Rufus Isaacs, Marquess of Reading, Lord Chief Justice, Viceroy of India and Middle Templar, whose portrait hangs in the Parliament Chamber. 
+In 1938 she was asked by the government to set up what would go on to be called the Women’s Voluntary Service. The WVS recruited women to volunteer in all manner of capacities to assist the government and local authorities, including Air Raid Precautions, evacuation, childcare and supporting refugees. She later became the first female peer to sit in the House of Lords.
+
+#### Sybil Campbell (1889-1977) 
+Sybil Campbell was one of the first cohort of nine women Called to the Bar at the Inn in 1922, going on to practice as a barrister. During the war she served as Principal Enforcement Officer at the Ministry of Food, prosecuting the many infringements of rationing regulations. She was appointed an OBE in 1942 for this service. In 1945, she became the first female stipendiary magistrate.
+<br><br>
+<br><br>
+
+# Military Service 
+<br><br>
+Hundreds of members of the Middle Temple served in the British armed forces throughout the Second World War. Whether serving on the front line as soldiers, pilots or sailors, as military lawyers or medical officers, or holding senior staff appointments, the contribution of Middle Templars to the military struggle was extensive and profound. Many were killed in action or captured as prisoners of war, and several showed outstanding heroism. 
+<br><br>
+
+#### An Uncertain Voyage, Anthony Babington, 2000
+Anthony Babington grew up in India and England and served with the Royal Ulster Rifles and the Dorset Regiment in the Second World War. At the Battle of Arnhem in 1944 he was badly wounded and was expected never to walk or talk again. He eventually recovered the ability to speak and write, and eventually to walk, and was Called to the Bar at the Inn in 1948, later serving as a circuit judge.
+
+#### Sir Tasker Watkins (1918-2007) 
+Tasker Watkins joined the British Army in 1939 and arrived in Normandy with the 53rd (Welsh) Infantry Division shortly after the D-Day landings. He fought in the battle of the Falaise Pocket and was awarded the VC for his gallantry, which is described in detail above.
+
+#### Needs Must: The History of the Inns of Court Regiment, 1940-1945, A.F. Taggart, 1949 
+The Inns of Court Regiment existed between 1932 and 1961, but succeeded bodies dating back centuries such as the Inns of Court Rifle Volunteers and the Bloomsbury Inns of Court Volunteers.
+The regiment saw active service as an armoured car unit during the Second World War, participating in the D-Day landings and throughout the subsequent campaign across Europe.
+This volume records the regiment’s wartime story and was donated to the Inn in 1949 by the Commanding Officer and officers of the regiment.
+
+#### Jeremy Hutchinson (1915-2017) 
+Jeremy Hutchinson was Called in 1939 but shortly afterwards joined the Royal Naval Volunteer Reserve. He was aboard the destroyer HMS Kelly during the Battle of Crete in 1941, surviving its sinking. He prosecuted his first case while posted in Italy in 1944. 
+As a barrister, he led several notable defences including of Penguin Books in the Lady Chatterley trial and of Kempton Bunton, on trial for the theft of Goya’s portrait of the Duke of Wellington. 
+Image: SxMs207-6-2-1-1-1 - Jeremy Hutchinson QC Archive, University of Sussex Special Collections at the Keep.
+
+#### Laetitia Fairfield (1885-1978)
+Laetitia Fairfield had been a senior Medical Officer in the Women’s Army Auxiliary Corps and the Royal Air Force during the First World War. In between the wars, she was Called to the Bar and was involved with various public health initiatives in London. During the Second World War she was appointed Senior Woman Medical Officer of the Armed Forces by the War Office.
+
+#### John Henry Clavell Smythe (1915-1996) 
+Born in colonial Sierra Leone, Smythe joined the Royal Air Force in 1943. He flew bombing raids over Germany as one of the few Black airmen before being shot down and captured, spending 18 months as a prisoner of war in Stalag Luft I. After the war he joined the Inn and while a student he worked for the Colonial Office, in which capacity he served as the senior Colonial Office official on the Empire Windrush. After his Call to the Bar, he returned to Sierra Leone, where he rose to be a QC and Attorney General. 
+Image: IWM (CH 10739)
+
+#### Middle Templars killed on Active Service 
+A newspaper advertisement placed in 1961 requested information about members of the Inn killed on active service in the Second World War. These two letters, received in response, report the deaths of Major John Sydney Krill, killed in action in Melun, France in August 1944, and Alfred Maria de Lourde Soares, who died building the Siam Railway after Singapore had been overrun by the Japanese.
+
+#### Joyce Gutteridge 
+Gutteridge was Called to the Bar at the Inn in 1938, and at the outbreak of war became an army lawyer with the Auxiliary Territorial Service. She later played a key role in drafting the 1949 Geneva Conventions and worked for many years for the Foreign Office. 
