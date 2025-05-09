@@ -1,7 +1,7 @@
 <param ve-config 
        title="Ordeal and Triumph"
        author="Middle Temple Library"
-       banner="https://github.com/user-attachments/assets/bb4a897f-a8d7-4da0-a314-fbfdd8e07182.JPG"
+       banner="https://github.com/user-attachments/assets/4fea2f37-ec68-4fad-a81e-cdc4eb4c9262"
        layout="vertical">
 ## 
 Welcome to Middle Temple Library’s exhibition on Middle Temple and the Second World War. 
