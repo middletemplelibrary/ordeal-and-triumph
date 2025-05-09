@@ -104,4 +104,12 @@ The Inn was no exception to these rules, and ARP wardens patrolled the Temple by
 This volume reports breaches of blackout regulations in the Temple and action taken, and remarks and complaints by shelter marshals. 
 
 #### Notice Regarding Blackout Violations, 1939
-This notice reminds residents of the importance of adhering to Blackout regulations, and notes the necessity of taking steps to extinguish lights around the Temple. 
+This notice reminds residents of the importance of adhering to Blackout regulations, and notes the necessity of taking steps to extinguish lights around the Temple.
+
+#### ‘In an Air Raid… If You Are at Home’ poster, c1940 
+Image: IWM (Art.IWM PST 13872)
+<br><br>
+<br><>br>
+
+# The Changing Environment
+
