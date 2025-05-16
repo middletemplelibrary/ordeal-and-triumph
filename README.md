@@ -1,7 +1,8 @@
 <param ve-config 
        title="Ordeal and Triumph"
        author="Middle Temple Library"
-       banner="https://github.com/user-attachments/assets/97a29633-5e65-4789-b464-6ab749decaf7"
+       banner=![1d - VE Day on Fleet Street](https://github.com/user-attachments/assets/7d72adb0-ffc7-42e4-a91a-5c5bb1b24112)
+
        layout="vertical">
 ## 
 Welcome to Middle Temple Library’s exhibition on Middle Temple and the Second World War. 
