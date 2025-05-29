@@ -2,7 +2,6 @@
        title="Ordeal and Triumph"
        author="Middle Temple Library"
        banner="https://github.com/user-attachments/assets/3571482a-d6bf-48c4-9204-080eeab66207"
-
        layout="vertical">
 ## 
 Welcome to Middle Temple Library’s exhibition on Middle Temple and the Second World War. 
