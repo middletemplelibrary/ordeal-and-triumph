@@ -57,14 +57,16 @@ This notice advertises courses of instruction for Air Raid Precautions volunteer
 #### Lists of equipment and medical supplies, 1939
 These documents offer an insight in the detailed preparations for war at the Inn. Equipment required for the many ARP volunteers included service respirators, whistles and “Tin-hats for everyone”. Medical needs would be met with biniodide antiseptic, gauze, aspirin, smelling salts and bed pans. 
 
-![2b(i) - ARP Equipment](https://github.com/user-attachments/assets/5d24d14d-42c7-4fd4-a54b-016296facbde)
+<param ve-image
+       url="https://github.com/user-attachments/assets/5d24d14d-42c7-4fd4-a54b-016296facbde">
 
 
 #### Letters regarding availability during the Long Vacation, 1939
 On 18 July 1939 a note was sent to Middle Temple residents asking for their movements during August and September, “in order to provide for possible emergencies during the Long Vacation”, so that the ARP committee might make arrangements for the duties of those available. 
 Most respondents readily agreed to assist, though some noted the likelihood of their being called up for military service, and one noted (by postcard) that he was unlikely to be returning from France in the near future.
 
-![2c(i) - Letter regarding movements M  Goodwin](https://github.com/user-attachments/assets/01980351-fdeb-4d7f-b120-83829c19330d)
+<param ve-image
+       url="https://github.com/user-attachments/assets/01980351-fdeb-4d7f-b120-83829c19330d">
 
 #### Memorandum regarding the transfer of the 1608 Letters Patent and other records, 1939
 Shortly before the start of the war, the 1608 Letters Patent issued by James I which granted the lands of the Temple to the Middle Temple and the Inner Temple, was inspected and then packed up. It was then sent, alongside the archives of the Inn, to the care of Master Wintringham Norton Stable, who had offered to house these treasures in his home at Plas Llywn Owen in Montgomeryshire, Wales. 
