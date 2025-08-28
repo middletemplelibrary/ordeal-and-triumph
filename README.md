@@ -18,10 +18,6 @@ At the Inn, members, residents and staff endured an ordeal of blackouts, bombing
 Countless Middle Templars made their own remarkable contributions to the wider war effort - at home and abroad, in the law, in uniform or civilian dress. The exhibition illuminates a handful of their stories, as well as the presence of members of the Inn at the Nuremberg Trials. 
 <br><br>
 Below are some of the items it featured.
-<param ve-image 
-       label="Sex Disqualification (Removal) Act of 1919" 
-       description="text" 
-       url="https://user-images.githubusercontent.com/110464039/185369660-04505869-ab0f-41db-9a46-5aeef33b4180.PNG">
 
 #### Fragment of the Hall Screen
 This fragment of wood is thought to have come from the Elizabethan screen in the Hall, blown to smithereens during the Blitz in October 1940.
