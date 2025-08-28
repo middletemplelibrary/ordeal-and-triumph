@@ -41,8 +41,7 @@ Victory in Europe was announced on 8 May 1945, following the surrender of Nazi G
 <param ve-image
        url="https://github.com/user-attachments/assets/dafa80e3-7260-4650-81ff-ed2025090074">
 
-#### Preparations for War
-<br><br>
+### Preparations for War
 As the international situation became increasingly perilous in the late 1930s, the expectation of war spread, and soon preparations were afoot across the land, including at the Inn. In 1938 a committee was appointed to ‘consider protection against air attack’ and the Surveyor was instructed to prepare air raid shelters. While the Munich Agreement of 1938 offered a brief reprieve, by the summer of 1939 war looked inevitable. 
 A joint ARP committee with Inner Temple was formed and volunteers sought to act as fire-fighters, wardens, stretcher bearers and first aiders. Instruction was provided on fire-fighting, gas attacks and first aid, and supplies of medicine, equipment and clothing were ordered. Many of the Inn’s prized collections were stored or sent away for safety, including stained glass, paintings, silver and the archives. 
 The Second World War began on 1 September 1939, and the Minutes of the Inn’s Parliament on 18 September record that: “Master Treasurer reported that the Air Raid Precautions arrangements were complete”. The Standing Orders were suspended, dining terms cancelled and the whole governance of the Inn left in the hands of a Special War Committee of three Benchers. 
@@ -58,10 +57,14 @@ This notice advertises courses of instruction for Air Raid Precautions volunteer
 #### Lists of equipment and medical supplies, 1939
 These documents offer an insight in the detailed preparations for war at the Inn. Equipment required for the many ARP volunteers included service respirators, whistles and “Tin-hats for everyone”. Medical needs would be met with biniodide antiseptic, gauze, aspirin, smelling salts and bed pans. 
 
+![2b(i) - ARP Equipment](https://github.com/user-attachments/assets/5d24d14d-42c7-4fd4-a54b-016296facbde)
+
+
 #### Letters regarding availability during the Long Vacation, 1939
 On 18 July 1939 a note was sent to Middle Temple residents asking for their movements during August and September, “in order to provide for possible emergencies during the Long Vacation”, so that the ARP committee might make arrangements for the duties of those available. 
 Most respondents readily agreed to assist, though some noted the likelihood of their being called up for military service, and one noted (by postcard) that he was unlikely to be returning from France in the near future.
 
+![2c(i) - Letter regarding movements M  Goodwin](https://github.com/user-attachments/assets/01980351-fdeb-4d7f-b120-83829c19330d)
 
 #### Memorandum regarding the transfer of the 1608 Letters Patent and other records, 1939
 Shortly before the start of the war, the 1608 Letters Patent issued by James I which granted the lands of the Temple to the Middle Temple and the Inner Temple, was inspected and then packed up. It was then sent, alongside the archives of the Inn, to the care of Master Wintringham Norton Stable, who had offered to house these treasures in his home at Plas Llywn Owen in Montgomeryshire, Wales. 
