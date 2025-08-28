@@ -24,6 +24,7 @@ This fragment of wood is thought to have come from the Elizabethan screen in the
 <param ve-image 
       url=""https://github.com/user-attachments/assets/2b37b312-2ead-48e8-adf3-8ba3034e4760">
 
+![1b - Fragment of Screen](https://github.com/user-attachments/assets/d0c842e8-fb94-450b-aa9e-a42a849b4137)
 
 
 #### Call to the Bar in the bomb-damaged Hall, Trinity 1941.
