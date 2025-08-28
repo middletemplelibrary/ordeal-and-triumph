@@ -22,9 +22,6 @@ Below are some of the items it featured.
 #### Fragment of the Hall Screen
 This fragment of wood is thought to have come from the Elizabethan screen in the Hall, blown to smithereens during the Blitz in October 1940.
 
-<param ve-image 
-      url="https://github.com/user-attachments/assets/2b37b312-2ead-48e8-adf3-8ba3034e4760">
-
 <param ve-image
        url="https://github.com/user-attachments/assets/d0c842e8-fb94-450b-aa9e-a42a849b4137">
 
