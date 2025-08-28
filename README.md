@@ -35,8 +35,7 @@ Victory in Europe was announced on 8 May 1945, following the surrender of Nazi G
 #### Fragment of the Hall Screen
 This fragment of wood is thought to have come from the Elizabethan screen in the Hall, blown to smithereens during the Blitz in October 1940.
 
-<br><br>
-<br><br>
+
 
 # Preparations for War
 <br><br>
