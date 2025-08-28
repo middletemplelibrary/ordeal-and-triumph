@@ -31,11 +31,8 @@ The Hall was badly damaged during the Blitz, in October 1940. The basic function
 <br><br>
 This photograph shows a Call ceremony taking place with the shored-up hole made in the East gable of Hall above, with one of those being Called lined up in uniform. 
 
-
 <param ve-image
-       url="https://github.com/user-attachments/assets/f8c38f15-ea79-44f1-bd16-9ee816f97db9">
-       
-![1c - Call Ceremony in Bomb-damaged Hall](https://github.com/user-attachments/assets/5e395ce4-2fef-4c90-962d-204e2c3658bc)
+       url="https://github.com/user-attachments/assets/5e395ce4-2fef-4c90-962d-204e2c3658bc">
 
 
 #### Revellers on Fleet Street, Victory in Europe Day, 1945 
