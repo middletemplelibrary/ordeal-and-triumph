@@ -38,8 +38,8 @@ This photograph shows a Call ceremony taking place with the shored-up hole made 
 #### Revellers on Fleet Street, Victory in Europe Day, 1945 
 Victory in Europe was announced on 8 May 1945, following the surrender of Nazi Germany, triggering widespread jubilation. This photograph shows the celebrations on nearby Fleet Street, in which members, residents and staff of the Inn no doubt took part. 
 
-![1d - VE Day on Fleet Street](https://github.com/user-attachments/assets/dafa80e3-7260-4650-81ff-ed2025090074)
-
+<param ve-image
+       url="https://github.com/user-attachments/assets/dafa80e3-7260-4650-81ff-ed2025090074">
 
 # Preparations for War
 <br><br>
