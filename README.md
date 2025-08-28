@@ -32,11 +32,12 @@ The Hall was badly damaged during the Blitz, in October 1940. The basic function
 This photograph shows a Call ceremony taking place with the shored-up hole made in the East gable of Hall above, with one of those being Called lined up in uniform. 
 
 
+<param ve-image
+       url="https://github.com/user-attachments/assets/f8c38f15-ea79-44f1-bd16-9ee816f97db9">
+
+
 #### Revellers on Fleet Street, Victory in Europe Day, 1945 
 Victory in Europe was announced on 8 May 1945, following the surrender of Nazi Germany, triggering widespread jubilation. This photograph shows the celebrations on nearby Fleet Street, in which members, residents and staff of the Inn no doubt took part. 
-
-#### Fragment of the Hall Screen
-This fragment of wood is thought to have come from the Elizabethan screen in the Hall, blown to smithereens during the Blitz in October 1940.
 
 
 
