@@ -41,7 +41,7 @@ Victory in Europe was announced on 8 May 1945, following the surrender of Nazi G
 <param ve-image
        url="https://github.com/user-attachments/assets/dafa80e3-7260-4650-81ff-ed2025090074">
 
-# Preparations for War
+#### Preparations for War
 <br><br>
 As the international situation became increasingly perilous in the late 1930s, the expectation of war spread, and soon preparations were afoot across the land, including at the Inn. In 1938 a committee was appointed to ‘consider protection against air attack’ and the Surveyor was instructed to prepare air raid shelters. While the Munich Agreement of 1938 offered a brief reprieve, by the summer of 1939 war looked inevitable. 
 A joint ARP committee with Inner Temple was formed and volunteers sought to act as fire-fighters, wardens, stretcher bearers and first aiders. Instruction was provided on fire-fighting, gas attacks and first aid, and supplies of medicine, equipment and clothing were ordered. Many of the Inn’s prized collections were stored or sent away for safety, including stained glass, paintings, silver and the archives. 
@@ -50,6 +50,8 @@ The Second World War began on 1 September 1939, and the Minutes of the Inn’s P
 
 #### ARP Training Notice, 1939
 This notice advertises courses of instruction for Air Raid Precautions volunteers, including first aid, fire-fighting and anti-gas training, the latter provided by H.A.C. Sturgess, the Inn’s Librarian. 
+
+![2a - ARP Training Notice](https://github.com/user-attachments/assets/c8fc46d0-e66f-423e-b9d3-2244ad08471b)
 
 
 #### Lists of equipment and medical supplies, 1939
