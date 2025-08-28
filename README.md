@@ -51,7 +51,8 @@ The Second World War began on 1 September 1939, and the Minutes of the Inn’s P
 #### ARP Training Notice, 1939
 This notice advertises courses of instruction for Air Raid Precautions volunteers, including first aid, fire-fighting and anti-gas training, the latter provided by H.A.C. Sturgess, the Inn’s Librarian. 
 
-![2a - ARP Training Notice](https://github.com/user-attachments/assets/c8fc46d0-e66f-423e-b9d3-2244ad08471b)
+<param ve-image
+       url="https://github.com/user-attachments/assets/c8fc46d0-e66f-423e-b9d3-2244ad08471b">
 
 
 #### Lists of equipment and medical supplies, 1939
