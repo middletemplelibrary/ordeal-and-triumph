@@ -22,7 +22,7 @@ Below are some of the items it featured.
 #### Fragment of the Hall Screen
 This fragment of wood is thought to have come from the Elizabethan screen in the Hall, blown to smithereens during the Blitz in October 1940.
 
-       
+
 #### Call to the Bar in the bomb-damaged Hall, Trinity 1941.
 The Hall was badly damaged during the Blitz, in October 1940. The basic functions of the Inn continued, however, including the ancient ceremony of Call to the Bar.
 <br><br>
