@@ -60,8 +60,6 @@ Most respondents readily agreed to assist, though some noted the likelihood of t
 Shortly before the start of the war, the 1608 Letters Patent issued by James I which granted the lands of the Temple to the Middle Temple and the Inner Temple, was inspected and then packed up. It was then sent, alongside the archives of the Inn, to the care of Master Wintringham Norton Stable, who had offered to house these treasures in his home at Plas Llywn Owen in Montgomeryshire, Wales. 
 They were later moved to the nearby medieval church of St Mary at Llan, near Llanbrynmair. A small notice in the Church today records that it played host to these collections for the duration of war. 
 
-<br><br>
-<br><br>
 
 # Blackout
 <br><br>
@@ -77,9 +75,7 @@ This volume reports breaches of blackout regulations in the Temple and action ta
 This notice reminds residents of the importance of adhering to Blackout regulations, and notes the necessity of taking steps to extinguish lights around the Temple.
 
 #### ‘In an Air Raid… If You Are at Home’ poster, c1940 
-Image: IWM (Art.IWM PST 13872)
 
-<br><>br>
 
 # The Changing Environment
 <br><br>
@@ -101,7 +97,7 @@ By the summer of 1940, it was reported in the Observer that the old tennis court
 
 
 #### ‘Dig for Victory’ poster, 1942 
-Image: IWM (Art.IWM PST 0059)
+
 
 #### The Kitchen Garden, 2025 
 Commemorating the Dig for Victory campaign, the kitchen garden will be growing heirloom and heritage varieties that would have been grown at the time of WW2. Varieties such as Tomato ‘Ailsa Craig’, Runner Bean ‘Painted Lady’, and Brussel Sprout ‘Long Island’. Companion planting of flowers and strongly scented herbs will ward off any unwanted pests, rather than using the chemicals of the 1940s such as Nicotine, DDT, and Paris Green. Please feel free to have a visit and taste a tomato or two.
@@ -109,9 +105,6 @@ Commemorating the Dig for Victory campaign, the kitchen garden will be growing h
 
 #### The Royal Rifle Corps in Middle Temple Garden, 1940s 
 This photograph shows members of the Royal Rifle Corps exercising in the garden. This memento was sent to the Inn after the war by the Sports and Physical Training Officer “in appreciation of your kindness in consenting to our using your ground for Physical Training for the troops”.
-
-<br><br>
-<br><br>
 
 # The Ordeal
 <br><br>
@@ -156,8 +149,7 @@ On the night of March 24-25, 1944, 140 incendiary bombs fell in the Middle Templ
 #### Clearance of debris outside Temple Church, November 1941 
 The devastation of the Temple necessitated a seemingly never-ending clearance operation. In this photograph, taken some months after the end of the Blitz, two workmen tip debris down chutes into large barrels. The Round of the Temple Church, its roof utterly destroyed earlier that year, can be seen in the background.
 
-<br><br>
-<br><br>
+
 
 # The Aftermath of the War
 <br><br>
@@ -182,8 +174,7 @@ In this note, the Under Treasurer writes to the Food Office with details of hot 
 #### Queen Elizabeth at the re-opening of Hall, 1949
 By 1949, the Hall had been restored, and Queen Elizabeth, serving in that year as the Inn’s Treasurer, formally re-opened the building on July 6.
 
-<br><br>
-<br><br>
+
 
 # Intelligence, Government and the Home Front
 <br><br>
@@ -269,8 +260,7 @@ Wilberforce, a descendant of the abolitionist, was Called in 1932, and volunteer
 Jocelyn Edward Salis Simon was Called to the Bar in 1934. At the outbreak of the Second World War, he joined the Inns of Court Regiment and was commissioned as an officer in the Royal Tank Regiment, commanding a squadron of tanks in the invasion and liberation of Madagascar. He also fought in Burma and ended the war as a Lieutenant Colonel. 
 He served as an MP after the war, and in various government positions including Solicitor General under Harold Macmillan. He resigned from the cabinet in 1962 and became a High Court Judge and later a Law Lord.
 
-<br><br>
-<br><br>
+
 
 # NUREMBERG
 <br><br>
