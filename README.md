@@ -21,10 +21,7 @@ Below are some of the items it featured.
 
 #### Fragment of the Hall Screen
 This fragment of wood is thought to have come from the Elizabethan screen in the Hall, blown to smithereens during the Blitz in October 1940.
-<param ve-image 
-       label="Notice of a public meeting issued by Josephine Butler during the Pontefract by-election, 1872. Image courtesy of The Women’s Library, LSE" 
-       description="text" 
-       url="https://user-images.githubusercontent.com/110464039/189089424-119a797b-c743-4216-b56a-fee4768d7ec7.jpg">
+
        
 #### Call to the Bar in the bomb-damaged Hall, Trinity 1941.
 The Hall was badly damaged during the Blitz, in October 1940. The basic functions of the Inn continued, however, including the ancient ceremony of Call to the Bar.
