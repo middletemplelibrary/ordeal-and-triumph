@@ -8,7 +8,6 @@ Welcome to Middle Temple Library’s exhibition on Middle Temple and the Second 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
-
 ##
 
 2025 marks eighty years since the end of the Second World War. Using material from the Inn’s Archive and Library collections, this exhibition explores the wartime experience of the Middle Temple and its members. 
@@ -67,6 +66,9 @@ Most respondents readily agreed to assist, though some noted the likelihood of t
 
 <param ve-image
        url="https://github.com/user-attachments/assets/01980351-fdeb-4d7f-b120-83829c19330d">
+<param ve-image
+       url="https://github.com/user-attachments/assets/bcc9efde-dda3-42ef-b2d2-e5ccc2bb123a">
+
 
 #### Memorandum regarding the transfer of the 1608 Letters Patent and other records, 1939
 Shortly before the start of the war, the 1608 Letters Patent issued by James I which granted the lands of the Temple to the Middle Temple and the Inner Temple, was inspected and then packed up. It was then sent, alongside the archives of the Inn, to the care of Master Wintringham Norton Stable, who had offered to house these treasures in his home at Plas Llywn Owen in Montgomeryshire, Wales. 
