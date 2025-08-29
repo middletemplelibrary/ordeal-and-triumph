@@ -349,9 +349,6 @@ A newspaper advertisement placed in 1961 requested information about members of 
 #### Joyce Gutteridge 
 Gutteridge was Called to the Bar at the Inn in 1938, and at the outbreak of war became an army lawyer with the Auxiliary Territorial Service. She later played a key role in drafting the 1949 Geneva Conventions and worked for many years for the Foreign Office.
 
-<param ve-image
-       url="https://github.com/user-attachments/assets/4397a598-1f44-4e6e-a3bb-71de9bf732ae">
-
 #### Richard Orme Wilberforce, Baron Wilberforce (1907-2003) 
 Wilberforce, a descendant of the abolitionist, was Called in 1932, and volunteered for service at the outbreak of War, being commissioned into the Royal Artillery. He served as aide-de-camp to Major-General Bernard Paget during the Norwegian Campaign in 1940, later being in charge of Army entertainments for the War Office, and was attached to the Supreme Headquarters Allied Expeditionary Force in 1944. He drafted the German Instrument of Surrender signed on 8 May 1945. He returned to the law after the war and in 1964 became a Law Lord, retiring in 1982.
 
