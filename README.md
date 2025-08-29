@@ -22,6 +22,7 @@ Below are some of the items it featured.
 This fragment of wood is thought to have come from the Elizabethan screen in the Hall, blown to smithereens during the Blitz in October 1940.
 
 <param ve-image
+       label="Fragment of the Screen"
        url="https://github.com/user-attachments/assets/d0c842e8-fb94-450b-aa9e-a42a849b4137">
 
 
@@ -31,6 +32,7 @@ The Hall was badly damaged during the Blitz, in October 1940. The basic function
 This photograph shows a Call ceremony taking place with the shored-up hole made in the East gable of Hall above, with one of those being Called lined up in uniform. 
 
 <param ve-image
+       label="Call Ceremony in Bomb-damaged Hall"
        url="https://github.com/user-attachments/assets/5e395ce4-2fef-4c90-962d-204e2c3658bc">
 
 
@@ -38,6 +40,7 @@ This photograph shows a Call ceremony taking place with the shored-up hole made 
 Victory in Europe was announced on 8 May 1945, following the surrender of Nazi Germany, triggering widespread jubilation. This photograph shows the celebrations on nearby Fleet Street, in which members, residents and staff of the Inn no doubt took part. 
 
 <param ve-image
+       label="VE Day on Fleet Street"
        url="https://github.com/user-attachments/assets/dafa80e3-7260-4650-81ff-ed2025090074">
 
 ### Preparations for War
@@ -50,6 +53,7 @@ The Second World War began on 1 September 1939, and the Minutes of the Inn’s P
 This notice advertises courses of instruction for Air Raid Precautions volunteers, including first aid, fire-fighting and anti-gas training, the latter provided by H.A.C. Sturgess, the Inn’s Librarian. 
 
 <param ve-image
+       label="ARP Training Notice"
        url="https://github.com/user-attachments/assets/c8fc46d0-e66f-423e-b9d3-2244ad08471b">
 
 
@@ -57,6 +61,7 @@ This notice advertises courses of instruction for Air Raid Precautions volunteer
 These documents offer an insight in the detailed preparations for war at the Inn. Equipment required for the many ARP volunteers included service respirators, whistles and “Tin-hats for everyone”. Medical needs would be met with biniodide antiseptic, gauze, aspirin, smelling salts and bed pans. 
 
 <param ve-image
+       label="ARP Equipment"
        url="https://github.com/user-attachments/assets/5d24d14d-42c7-4fd4-a54b-016296facbde">
 
 
@@ -64,13 +69,17 @@ These documents offer an insight in the detailed preparations for war at the Inn
 On 18 July 1939 a note was sent to Middle Temple residents asking for their movements during August and September, “in order to provide for possible emergencies during the Long Vacation”, so that the ARP committee might make arrangements for the duties of those available. 
 Most respondents readily agreed to assist, though some noted the likelihood of their being called up for military service, and one noted (by postcard) that he was unlikely to be returning from France in the near future.
 
-<param ve-image
+<param ve-image#
+       label="First Aid Equipment"
        url="https://github.com/user-attachments/assets/01980351-fdeb-4d7f-b120-83829c19330d">
 <param ve-image
+       label="Letter Regarding Movements M. Goodwin"
        url="https://github.com/user-attachments/assets/bcc9efde-dda3-42ef-b2d2-e5ccc2bb123a">
 <param ve-image
+       label="Letter regarding Movements"
        url="https://github.com/user-attachments/assets/7aa8b00d-f4b9-4d77-80d4-5b2b252ffdb5">
 <param ve-image
+       label="Letter regarding Movements K. Diplock"
        url="https://github.com/user-attachments/assets/143bfd7d-ed9b-47d4-b567-4fefc2a15c56">
 
 #### Memorandum regarding the transfer of the 1608 Letters Patent and other records, 1939
@@ -78,6 +87,7 @@ Shortly before the start of the war, the 1608 Letters Patent issued by James I w
 They were later moved to the nearby medieval church of St Mary at Llan, near Llanbrynmair. A small notice in the Church today records that it played host to these collections for the duration of war. 
 
 <param ve-image
+       label="Letter regarding Movements"
        url="https://github.com/user-attachments/assets/a6e45b93-2d08-4290-bc2e-7dd7101ff86a">
 
 # Blackout
