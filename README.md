@@ -231,14 +231,8 @@ Just as Her Majesty had predicted, in the long years following the war the Inn c
 #### Restoration of the Screen, 1940s
 After its destruction in 1940, the splintered fragments of the screen were gathered up into some 200 sacks. Following the war, these pieces were painstaking reassembled in what may be the biggest jigsaw puzzle in history, based on surviving drawings.
 
-<param ve-image
-       url="https://github.com/user-attachments/assets/142ad362-b2ed-40aa-8c7d-3cdaa874095e">
-
 #### Restoration work in Hall, c1946
 This photograph shows the restoration of Hall at an early stage, with work underway on the reconstruction of the screen and gallery.
-
-<param ve-image
-       url="https://github.com/user-attachments/assets/9883a972-493c-49e0-860e-b95d9b0cd21d">
 
 #### Application for increase of Rations and Points, 1947 
 In this note, the Under Treasurer writes to the Food Office with details of hot beverages and meals served at the Inn in the past four weeks. Rationing would not formally be ended until 1954.
@@ -249,8 +243,6 @@ In this note, the Under Treasurer writes to the Food Office with details of hot 
 #### Queen Elizabeth at the re-opening of Hall, 1949
 By 1949, the Hall had been restored, and Queen Elizabeth, serving in that year as the Inn’s Treasurer, formally re-opened the building on July 6.
 
-<param ve-image
-       url="https://github.com/user-attachments/assets/2febb794-7efd-41cc-a662-8bee55bed219">
 
 # Intelligence, Government and the Home Front
 <br><br>
@@ -278,9 +270,6 @@ A KC and Bencher of the Inn, Ewen Montagu was assigned to the Naval Intelligence
 
 #### The Man Who Never Was, 1953 
 Montagu told his story in The Man Who Never Was. The book was later adapted for the cinema in 1956 under the same title. The story has since been retold in another film, Operation Mincemeat in 2022, and as a popular West End musical.
-
-<param ve-image
-       url="https://github.com/user-attachments/assets/f28dad00-1400-49f2-aeb9-b50ebfcef556">
 
 #### Elsie Bowerman (1889-1973) 
 Elsie Bowerman was Called to the Bar in 1924. Before joining the Inn, she had survived the sinking of the Titanic, witnessed the start of the Russian Revolution in Petrograd, and been active in the suffrage movement.
@@ -318,9 +307,6 @@ Hundreds of members of the Middle Temple served in the British armed forces thro
 #### An Uncertain Voyage, Anthony Babington, 2000
 Anthony Babington grew up in India and England and served with the Royal Ulster Rifles and the Dorset Regiment in the Second World War. At the Battle of Arnhem in 1944 he was badly wounded and was expected never to walk or talk again. He eventually recovered the ability to speak and write, and eventually to walk, and was Called to the Bar at the Inn in 1948, later serving as a circuit judge.
 
-<param ve-image
-       url="https://github.com/user-attachments/assets/de8c25b3-58fc-4966-88b1-88f7fb506993">
-
 #### Sir Tasker Watkins (1918-2007) 
 Tasker Watkins joined the British Army in 1939 and arrived in Normandy with the 53rd (Welsh) Infantry Division shortly after the D-Day landings. He fought in the battle of the Falaise Pocket and was awarded the VC for his gallantry, which is described in detail above.
 
@@ -331,9 +317,6 @@ Tasker Watkins joined the British Army in 1939 and arrived in Normandy with the 
 The Inns of Court Regiment existed between 1932 and 1961, but succeeded bodies dating back centuries such as the Inns of Court Rifle Volunteers and the Bloomsbury Inns of Court Volunteers.
 The regiment saw active service as an armoured car unit during the Second World War, participating in the D-Day landings and throughout the subsequent campaign across Europe.
 This volume records the regiment’s wartime story and was donated to the Inn in 1949 by the Commanding Officer and officers of the regiment.
-
-<param ve-image
-       url="https://github.com/user-attachments/assets/d23ec8d3-8f59-42f8-98e5-7373646ba0a8">
 
 #### Jeremy Hutchinson (1915-2017) 
 Jeremy Hutchinson was Called in 1939 but shortly afterwards joined the Royal Naval Volunteer Reserve. He was aboard the destroyer HMS Kelly during the Battle of Crete in 1941, surviving its sinking. He prosecuted his first case while posted in Italy in 1944. 
@@ -391,9 +374,6 @@ Proceedings began in November 1945, with prosecution teams representing the four
 #### The Courtroom at Nuremberg, 4 June 1946 
 This photograph shows the inside of the courtroom at Nuremberg. It depicts G.D. ‘Khaki’ Roberts, a member of the Inner Temple and one of the British prosecutors, cross-examining Alfred Jodl, who sits to the right in the witness box. Fellow defendants listen in the large dock to the left, under the eyes of white-helmeted U.S. guards.
 
-<param ve-image
-       url="https://github.com/user-attachments/assets/08ae2095-72e8-49ab-a7f6-45573ecaaeff">
-
 #### Members of the British delegation at Nuremberg 
 This photograph shows members the British delegation at the airport, including Sir David Maxwell Fyfe, Sir Henry MacGeagh and G.D. ‘Khaki’ Roberts.
 
@@ -402,9 +382,6 @@ This photograph shows members the British delegation at the airport, including S
 
 #### ‘Nurnberg’, Charles W. Alexander, 1946 
 This volume was donated to the Library by the Treasurer, Kenneth Carpmael, in 1961. Compiled by the photographer Charles W. Alexander, it contains photographs of the trials at Nuremberg as well as scenes from the city itself. The cover shows the Palace of Justice, where the trials were held.
-
-<param ve-image
-       url="https://github.com/user-attachments/assets/4e17ad6f-e2e3-4c18-9756-a53e433bafb4">
 
 #### Armorial Panel of Mervyn Griffith Jones (1909-1973) 
 Mervyn Griffith-Jones was Called to the Bar in 1932 and served with the Coldstream Guards during the Second World War, being awarded the MC. He was a junior prosecuting counsel in the British delegation at Nuremberg. He later led the prosecution of Penguin Books in the Lady Chatterley trial.
