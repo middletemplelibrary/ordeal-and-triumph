@@ -115,6 +115,11 @@ This notice reminds residents of the importance of adhering to Blackout regulati
 <param ve-image
        url="https://github.com/user-attachments/assets/2a806072-f8f0-491e-972a-d70e2720790c">
 
+![arposter](https://github.com/user-attachments/assets/1eef5514-1ab0-4d67-931f-87c7c7d758db)
+
+
+       
+
 # The Changing Environment
 <br><br>
 The ongoing war effort brought many changes to the physical environment of the Inn. From the digging of allotments in the garden to grow produce, in line with the national ‘Dig for Victory’ campaign, to the introduction of reservoirs and water pipes for firefighting, formerly ornamental spaces were put to practical use. The Middle Temple and the Inner Temple made a gift to the government of the iron railings surrounding the Temple Church. 
