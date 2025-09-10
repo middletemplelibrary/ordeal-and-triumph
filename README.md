@@ -99,15 +99,8 @@ The Inn was no exception to these rules, and ARP wardens patrolled the Temple by
 #### Volume recording Blackout Violations, 1940-1941
 This volume reports breaches of blackout regulations in the Temple and action taken, and remarks and complaints by shelter marshals.
 
-<img width="731" height="899" alt="brv" src="https://github.com/user-attachments/assets/b7485e5a-1cb4-40a4-bb36-54bfed5d7625" />
-
-
-
 <param ve-image
        url="https://github.com/user-attachments/assets/eaf5d1c6-4146-4148-bd9e-b11970908f98">
-
-     
-
 
 
 #### Notice Regarding Blackout Violations, 1939
@@ -122,6 +115,7 @@ This notice reminds residents of the importance of adhering to Blackout regulati
 <param ve-image
        url="https://github.com/user-attachments/assets/4847c957-87be-475e-bdc8-a872ba8f11c5">
 
+![air_raid](https://github.com/user-attachments/assets/2a806072-f8f0-491e-972a-d70e2720790c)
 
 # The Changing Environment
 <br><br>
