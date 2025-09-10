@@ -146,7 +146,7 @@ By the summer of 1940, it was reported in the Observer that the old tennis court
        url="https://github.com/user-attachments/assets/5d072f27-095b-4078-bf20-cf942635a1c0">
 
 #### ‘Dig for Victory’ poster, 1942 
-
+add text.
 <param ve-image
        url="https://github.com/user-attachments/assets/ce7c821a-dbe5-465b-9f58-2c6a7bb1eae0">
 
