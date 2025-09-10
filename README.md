@@ -233,10 +233,8 @@ The devastation of the Temple necessitated a seemingly never-ending clearance op
 
 # The Aftermath of the War
 <br><br>
-Victory in Europe was declared on 8 May 1945, and the war came to an end later that summer. However, the long ordeal was far from over for the Middle Temple. Vast swathes of the estate lay in ruins, educational and collegiate life had been suspended for over half a decade, and hundreds of members of the Inn remained in military and civilian service both at home and abroad. 
-
-Giving a speech on the occasion of her Royal Bench Call in 1944, Queen Elizabeth (later the Queen Mother) had declared: “whilst our walls may crumble, this is of small account so long as the virtues and graces for which this Inn has ever stood continue unshaken and unshakeable. It is upon their foundation that you will rebuild; your Courts and Chambers will rise with a greater strength and a new beauty.” 
-
+Victory in Europe was declared on 8 May 1945, and the war came to an end later that summer. However, the long ordeal was far from over for the Middle Temple. Vast swathes of the estate lay in ruins, educational and collegiate life had been suspended for over half a decade, and hundreds of members of the Inn remained in military and civilian service both at home and abroad. <br>
+Giving a speech on the occasion of her Royal Bench Call in 1944, Queen Elizabeth (later the Queen Mother) had declared: “whilst our walls may crumble, this is of small account so long as the virtues and graces for which this Inn has ever stood continue unshaken and unshakeable. It is upon their foundation that you will rebuild; your Courts and Chambers will rise with a greater strength and a new beauty.” <br>
 Just as Her Majesty had predicted, in the long years following the war the Inn came gradually back to life amongst ongoing rationing and other privations, and new buildings rose up in place of old. Fittingly, the restored Hall was formally re-opened by the Queen in 1949.
 <br><br>
 
