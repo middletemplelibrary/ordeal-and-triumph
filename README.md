@@ -100,8 +100,7 @@ The Inn was no exception to these rules, and ARP wardens patrolled the Temple by
 This volume reports breaches of blackout regulations in the Temple and action taken, and remarks and complaints by shelter marshals.
 
 <param ve-image
-       url="https://github.com/user-attachments/assets/d87e5f37-037d-4c27-9aa5-239766a18e6a">
-
+       url="https://github.com/user-attachments/assets/2f4d4232-306a-4bdc-8377-9a3fa11e1a0e">
 
 #### Notice Regarding Blackout Violations, 1939
 This notice reminds residents of the importance of adhering to Blackout regulations, and notes the necessity of taking steps to extinguish lights around the Temple.
