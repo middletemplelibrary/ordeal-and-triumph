@@ -69,7 +69,7 @@ These documents offer an insight in the detailed preparations for war at the Inn
 On 18 July 1939 a note was sent to Middle Temple residents asking for their movements during August and September, “in order to provide for possible emergencies during the Long Vacation”, so that the ARP committee might make arrangements for the duties of those available. 
 Most respondents readily agreed to assist, though some noted the likelihood of their being called up for military service, and one noted (by postcard) that he was unlikely to be returning from France in the near future.
 
-<param ve-image#
+<param ve-image
        label="First Aid Equipment"
        url="https://github.com/user-attachments/assets/01980351-fdeb-4d7f-b120-83829c19330d">
 <param ve-image
