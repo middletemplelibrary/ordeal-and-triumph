@@ -102,6 +102,12 @@ This volume reports breaches of blackout regulations in the Temple and action ta
 <param ve-image
        url="https://github.com/user-attachments/assets/2f4d4232-306a-4bdc-8377-9a3fa11e1a0e">
 
+       ![volume_recording_blackout_Violations](https://github.com/user-attachments/assets/3be4ab31-747c-4cec-abb6-6ef0bd4e302f)
+
+       <img width="731" height="899" alt="volume_recording_blackout_Violations" src="https://github.com/user-attachments/assets/17e90ff0-fc34-4541-b623-b05b41ec2546" />
+
+
+
 #### Notice Regarding Blackout Violations, 1939
 This notice reminds residents of the importance of adhering to Blackout regulations, and notes the necessity of taking steps to extinguish lights around the Temple.
 
