@@ -113,8 +113,8 @@ This notice reminds residents of the importance of adhering to Blackout regulati
 #### ‘In an Air Raid… If You Are at Home’ poster, c1940
 
 <param ve-image
-       url="https://github.com/user-attachments/assets/1eef5514-1ab0-4d67-931f-87c7c7d758db">
-      
+       url="https://github.com/user-attachments/assets/32bf5fe1-881c-4868-a2a5-7fecc0911ece">
+
 
 # The Changing Environment
 <br><br>
