@@ -109,12 +109,16 @@ The ongoing war effort brought many changes to the physical environment of the I
 <br><br>
 Military uniforms were to be seen in increasing numbers in and around the Temple, with soldiers exercising in the garden, RAF men in charge of a nearby Barrage Balloon, and the requisitioning by the Royal Navy of the ‘Temple Steps’ on the Thames.
 <param ve-image
-       url="https://github.com/user-attachments/assets/d77cb3c4-06a4-4ad8-b3f3-90066ab096ae">
+       url="https://github.com/user-attachments/assets/0509bf92-f4ff-4336-97ae-cd5e06d8ec74">
 
 ## The Fountain transformed into a reservoir, 1941 
 A good supply of water was critical to efforts to fight fires resulting from bombing raids. The Inn’s 17th century fountain was transformed, at the request of the National Fire Service, into a reservoir for water in the summer of 1941.
 <param ve-image
-       url="https://github.com/user-attachments/assets/d77cb3c4-06a4-4ad8-b3f3-90066ab096ae">
+       url="https://github.com/user-attachments/assets/0509bf92-f4ff-4336-97ae-cd5e06d8ec74">
+##
+
+![building_fountain](https://github.com/user-attachments/assets/0509bf92-f4ff-4336-97ae-cd5e06d8ec74)
+
 
 ## Plan of proposed pipe line, Middle Temple Lane, 1943 
 Throughout the war the Inn worked closely with the National Fire Service, housing and purchasing fire engines, hoses and pumps at their recommendation and request. In 1943, the NFS provided this plan, accompanying a request to bury a steel pipe under Middle Temple Lane to aid water supply for fire-fighting.
