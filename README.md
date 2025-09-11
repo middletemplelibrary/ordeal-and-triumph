@@ -309,17 +309,6 @@ Wilberforce, a descendant of the abolitionist, was Called in 1932, and volunteer
 <param ve-image
        url="https://github.com/user-attachments/assets/5e44a359-7128-4951-81b3-232154c99086">
 
-##
- 
-![baron_wilberforce](https://github.com/user-attachments/assets/5e44a359-7128-4951-81b3-232154c99086)
-
-![jess](https://github.com/user-attachments/assets/d04ee580-fe3a-4d0b-9970-69dd9a5c37ee)
-![nuremberg_pic](https://github.com/user-attachments/assets/afe4d139-9bb7-467e-a22c-cbff65775f0c)
-
-![mervyn_griffith_jones](https://github.com/user-attachments/assets/7203f513-dd68-453f-a31b-2bb77a304c57)
-![isaac_jackson_security](https://github.com/user-attachments/assets/abfc6b30-6802-4484-8970-c90de2dc0370)
-![foster_mcgeah](https://github.com/user-attachments/assets/03af13ca-4b3c-46ce-b35f-5591ca175e9f)
-
 ## Memorial of Jocelyn ‘Jack’ Simon (1911-2006) 
 Jocelyn Edward Salis Simon was Called to the Bar in 1934. At the outbreak of the Second World War, he joined the Inns of Court Regiment and was commissioned as an officer in the Royal Tank Regiment, commanding a squadron of tanks in the invasion and liberation of Madagascar. He also fought in Burma and ended the war as a Lieutenant Colonel. 
 He served as an MP after the war, and in various government positions including Solicitor General under Harold Macmillan. He resigned from the cabinet in 1962 and became a High Court Judge and later a Law Lord.
