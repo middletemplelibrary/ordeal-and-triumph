@@ -73,25 +73,17 @@ Most respondents readily agreed to assist, though some noted the likelihood of t
        label="Letter regarding Movements K. Diplock"
        url="https://github.com/user-attachments/assets/83e53be2-250f-4667-9b2e-6a0f0e1bd8fc">
 
-
-   ##
-![2nd_letter](https://github.com/user-attachments/assets/b0b69bf7-3021-4845-8ccb-2e1bc9aabffa)
-
-![3rd_letter](https://github.com/user-attachments/assets/633b336d-c410-4d2b-9183-a95d80c430dc)
-
-![4th_letter](https://github.com/user-attachments/assets/83e53be2-250f-4667-9b2e-6a0f0e1bd8fc)
-
-
-
-   
-
-
 ## Memorandum regarding the transfer of the 1608 Letters Patent and other records, 1939
 Shortly before the start of the war, the 1608 Letters Patent issued by James I which granted the lands of the Temple to the Middle Temple and the Inner Temple, was inspected and then packed up. It was then sent, alongside the archives of the Inn, to the care of Master Wintringham Norton Stable, who had offered to house these treasures in his home at Plas Llywn Owen in Montgomeryshire, Wales. 
 They were later moved to the nearby medieval church of St Mary at Llan, near Llanbrynmair. A small notice in the Church today records that it played host to these collections for the duration of war. 
 <param ve-image
        label="Letter regarding Movements"
-       url="https://github.com/user-attachments/assets/a6e45b93-2d08-4290-bc2e-7dd7101ff86a">
+       url="https://github.com/user-attachments/assets/56e4feeb-fc5c-4767-8983-cf50a98c7cf9">
+
+       ##
+![movements_letter](https://github.com/user-attachments/assets/56e4feeb-fc5c-4767-8983-cf50a98c7cf9)
+
+       
 
 ## Blackout
 The outbreak of war was followed by a cold, snowy winter and the enforcement of the Blackout across London. The fear of night air bombing attacks led to strict regulations, in force from 1 September 1939, calling for windows and doors to be covered at night to prevent the escape of any light which might aid enemy aircraft. 
