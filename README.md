@@ -165,7 +165,6 @@ This view down Middle Temple captures the aftermath of the devastation of 15 Oct
 <param ve-image
        url="https://github.com/user-attachments/assets/1c7d485b-caec-49ef-97e8-f86d8a1154a1">
 
-
 ## Elm Court, Autumn 1940 
 Elm Court was devastated during the Blitz, being hit on the first night on which bombs fell in the Temple, and then utterly destroyed on October 15. This photograph shows chambers interiors which have been revealed by the bombing.
 <param ve-image
@@ -202,8 +201,8 @@ The devastation of the Temple necessitated a seemingly never-ending clearance op
        url="https://github.com/user-attachments/assets/30e0045c-2f01-4aa7-ba62-b08433756228">
 
 ## The Aftermath of the War
-Victory in Europe was declared on 8 May 1945, and the war came to an end later that summer. However, the long ordeal was far from over for the Middle Temple. Vast swathes of the estate lay in ruins, educational and collegiate life had been suspended for over half a decade, and hundreds of members of the Inn remained in military and civilian service both at home and abroad. <br>
-Giving a speech on the occasion of her Royal Bench Call in 1944, Queen Elizabeth (later the Queen Mother) had declared: “whilst our walls may crumble, this is of small account so long as the virtues and graces for which this Inn has ever stood continue unshaken and unshakeable. It is upon their foundation that you will rebuild; your Courts and Chambers will rise with a greater strength and a new beauty.” <br><br>
+Victory in Europe was declared on 8 May 1945, and the war came to an end later that summer. However, the long ordeal was far from over for the Middle Temple. Vast swathes of the estate lay in ruins, educational and collegiate life had been suspended for over half a decade, and hundreds of members of the Inn remained in military and civilian service both at home and abroad. <br /><br />
+Giving a speech on the occasion of her Royal Bench Call in 1944, Queen Elizabeth (later the Queen Mother) had declared: “whilst our walls may crumble, this is of small account so long as the virtues and graces for which this Inn has ever stood continue unshaken and unshakeable. It is upon their foundation that you will rebuild; your Courts and Chambers will rise with a greater strength and a new beauty.” <br /><br />
 Just as Her Majesty had predicted, in the long years following the war the Inn came gradually back to life amongst ongoing rationing and other privations, and new buildings rose up in place of old. Fittingly, the restored Hall was formally re-opened by the Queen in 1949.
 
 ## Restoration of the Screen, 1940s
@@ -219,7 +218,6 @@ In this note, the Under Treasurer writes to the Food Office with details of hot 
 
 ## Queen Elizabeth at the re-opening of Hall, 1949
 By 1949, the Hall had been restored, and Queen Elizabeth, serving in that year as the Inn’s Treasurer, formally re-opened the building on July 6.
-
 
 ## Intelligence, Government and the Home Front
 Countless Middle Templars contributed to the war effort behind the scenes and at home - at the highest levels of military intelligence and government, as participants in the many organisations and initiatives which sprung up over the war years, and, often unrecorded, in their everyday lives.
@@ -240,17 +238,6 @@ A KC and Bencher of the Inn, Ewen Montagu was assigned to the Naval Intelligence
 <param ve-image
        url="https://github.com/user-attachments/assets/a6248b50-2434-4913-9457-c7fdd09d6b22">
 
-##
-![montagu_pic](https://github.com/user-attachments/assets/a6248b50-2434-4913-9457-c7fdd09d6b22)
-
-##
-![bowerman_pic](https://github.com/user-attachments/assets/38a8d5b2-0196-4cc2-b057-75c8d04d459e)
-![cripps_pic](https://github.com/user-attachments/assets/f871f1e5-f38d-40d2-8b1d-2439f34e755d)
-![s_campbell_pic](https://github.com/user-attachments/assets/ae5cd429-642f-469f-a391-b597a03dbe50)
-![tasker_watkins](https://github.com/user-attachments/assets/79001c8d-0556-41ab-b2a4-02d3ee339381)
-
-
-
 ## The Man Who Never Was, 1953 
 Montagu told his story in The Man Who Never Was. The book was later adapted for the cinema in 1956 under the same title. The story has since been retold in another film, Operation Mincemeat in 2022, and as a popular West End musical.
 
@@ -269,7 +256,6 @@ Cripps was appointed Ambassador to the Soviet Union by Churchill in 1940, and he
 ## Stella Isaacs, Marchioness of Reading and Baroness Swanborough (1894-1971) 
 Stella Isaacs was the widow of Rufus Isaacs, Marquess of Reading, Lord Chief Justice, Viceroy of India and Middle Templar, whose portrait hangs in the Parliament Chamber. 
 In 1938 she was asked by the government to set up what would go on to be called the Women’s Voluntary Service. The WVS recruited women to volunteer in all manner of capacities to assist the government and local authorities, including Air Raid Precautions, evacuation, childcare and supporting refugees. She later became the first female peer to sit in the House of Lords.
-
 
 ## Sybil Campbell (1889-1977) 
 Sybil Campbell was one of the first cohort of nine women Called to the Bar at the Inn in 1922, going on to practice as a barrister. During the war she served as Principal Enforcement Officer at the Ministry of Food, prosecuting the many infringements of rationing regulations. She was appointed an OBE in 1942 for this service. In 1945, she became the first female stipendiary magistrate.
@@ -296,24 +282,33 @@ This volume records the regiment’s wartime story and was donated to the Inn in
 Jeremy Hutchinson was Called in 1939 but shortly afterwards joined the Royal Naval Volunteer Reserve. He was aboard the destroyer HMS Kelly during the Battle of Crete in 1941, surviving its sinking. He prosecuted his first case while posted in Italy in 1944. <br /><br />
 As a barrister, he led several notable defences including of Penguin Books in the Lady Chatterley trial and of Kempton Bunton, on trial for the theft of Goya’s portrait of the Duke of Wellington. 
 <param ve-image
-       url="https://github.com/user-attachments/assets/ef74be57-aac3-407e-a0ad-3aff34a96cab">
+       url="https://github.com/user-attachments/assets/4a104018-130f-4e39-84a1-d15cf87e66d6">
+
+       ##
+![j_hutchinson](https://github.com/user-attachments/assets/4a104018-130f-4e39-84a1-d15cf87e66d6)
+![l_fairfield_pic](https://github.com/user-attachments/assets/8ee8a3f4-8565-45d7-baba-7b211bb99bb2)
+![c_smythe_pic](https://github.com/user-attachments/assets/5b9366a3-30df-462a-91d1-7a99bc6f3382)
+![kia_1](https://github.com/user-attachments/assets/92130109-be3b-4734-bed6-b2004fee998b)
+![kia_2](https://github.com/user-attachments/assets/a17da157-9857-4d23-a15e-dc7ee75f687c)
+
+       
 
 ## Laetitia Fairfield (1885-1978)
 Laetitia Fairfield had been a senior Medical Officer in the Women’s Army Auxiliary Corps and the Royal Air Force during the First World War. In between the wars, she was Called to the Bar and was involved with various public health initiatives in London. During the Second World War she was appointed Senior Woman Medical Officer of the Armed Forces by the War Office.
 <param ve-image
-       url="https://github.com/user-attachments/assets/ecf56509-a014-40b8-aadd-077dfc959e70">
+       url="https://github.com/user-attachments/assets/8ee8a3f4-8565-45d7-baba-7b211bb99bb2">
 
 ## John Henry Clavell Smythe (1915-1996) 
 Born in colonial Sierra Leone, Smythe joined the Royal Air Force in 1943. He flew bombing raids over Germany as one of the few Black airmen before being shot down and captured, spending 18 months as a prisoner of war in Stalag Luft I. After the war he joined the Inn and while a student he worked for the Colonial Office, in which capacity he served as the senior Colonial Office official on the Empire Windrush. After his Call to the Bar, he returned to Sierra Leone, where he rose to be a QC and Attorney General. 
 <param ve-image
-       url="https://github.com/user-attachments/assets/ab7a5cbc-b1b9-4f10-9f9e-de6166041538">
+       url="https://github.com/user-attachments/assets/5b9366a3-30df-462a-91d1-7a99bc6f3382">
 
 ## Middle Templars killed on Active Service 
 A newspaper advertisement placed in 1961 requested information about members of the Inn killed on active service in the Second World War. These two letters, received in response, report the deaths of Major John Sydney Krill, killed in action in Melun, France in August 1944, and Alfred Maria de Lourde Soares, who died building the Siam Railway after Singapore had been overrun by the Japanese.
 <param ve-image
-       url="https://github.com/user-attachments/assets/8e2a214e-dc6e-4136-90a0-9d8b6fd674a5">
+       url="https://github.com/user-attachments/assets/92130109-be3b-4734-bed6-b2004fee998b">
 <param ve-image
-       url="https://github.com/user-attachments/assets/62f7d6f6-75da-4783-aab1-6019a276d268">
+       url="https://github.com/user-attachments/assets/a17da157-9857-4d23-a15e-dc7ee75f687c">
 
 ## Joyce Gutteridge 
 Gutteridge was Called to the Bar at the Inn in 1938, and at the outbreak of war became an army lawyer with the Auxiliary Territorial Service. She later played a key role in drafting the 1949 Geneva Conventions and worked for many years for the Foreign Office.
