@@ -322,8 +322,6 @@ Gutteridge was Called to the Bar at the Inn in 1938, and at the outbreak of war 
 <param ve-image
        url="https://github.com/user-attachments/assets/f51c276c-9380-45bb-819d-96bcb88ad524">
 
-![joyce_gutteridge](https://github.com/user-attachments/assets/f51c276c-9380-45bb-819d-96bcb88ad524)
-
 ## Richard Orme Wilberforce, Baron Wilberforce (1907-2003) 
 Wilberforce, a descendant of the abolitionist, was Called in 1932, and volunteered for service at the outbreak of War, being commissioned into the Royal Artillery. He served as aide-de-camp to Major-General Bernard Paget during the Norwegian Campaign in 1940, later being in charge of Army entertainments for the War Office, and was attached to the Supreme Headquarters Allied Expeditionary Force in 1944. He drafted the German Instrument of Surrender signed on 8 May 1945. He returned to the law after the war and in 1964 became a Law Lord, retiring in 1982.
 <param ve-image
@@ -341,6 +339,11 @@ Proceedings began in November 1945, with prosecution teams representing the four
 
 ## The Courtroom at Nuremberg, 4 June 1946 
 This photograph shows the inside of the courtroom at Nuremberg. It depicts G.D. ‘Khaki’ Roberts, a member of the Inner Temple and one of the British prosecutors, cross-examining Alfred Jodl, who sits to the right in the witness box. Fellow defendants listen in the large dock to the left, under the eyes of white-helmeted U.S. guards.
+<param ve-image
+       url="https://github.com/user-attachments/assets/3a24af37-e797-447a-a00e-c272d3625321">
+
+![courtroom_at_nuremberg](https://github.com/user-attachments/assets/3a24af37-e797-447a-a00e-c272d3625321)
+
 
 ## Members of the British delegation at Nuremberg 
 This photograph shows members the British delegation at the airport, including Sir David Maxwell Fyfe, Sir Henry MacGeagh and G.D. ‘Khaki’ Roberts.
