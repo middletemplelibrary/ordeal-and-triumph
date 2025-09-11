@@ -284,15 +284,6 @@ As a barrister, he led several notable defences including of Penguin Books in th
 <param ve-image
        url="https://github.com/user-attachments/assets/4a104018-130f-4e39-84a1-d15cf87e66d6">
 
-       ##
-![j_hutchinson](https://github.com/user-attachments/assets/4a104018-130f-4e39-84a1-d15cf87e66d6)
-![l_fairfield_pic](https://github.com/user-attachments/assets/8ee8a3f4-8565-45d7-baba-7b211bb99bb2)
-![c_smythe_pic](https://github.com/user-attachments/assets/5b9366a3-30df-462a-91d1-7a99bc6f3382)
-![kia_1](https://github.com/user-attachments/assets/92130109-be3b-4734-bed6-b2004fee998b)
-![kia_2](https://github.com/user-attachments/assets/a17da157-9857-4d23-a15e-dc7ee75f687c)
-
-       
-
 ## Laetitia Fairfield (1885-1978)
 Laetitia Fairfield had been a senior Medical Officer in the Women’s Army Auxiliary Corps and the Royal Air Force during the First World War. In between the wars, she was Called to the Bar and was involved with various public health initiatives in London. During the Second World War she was appointed Senior Woman Medical Officer of the Armed Forces by the War Office.
 <param ve-image
@@ -316,13 +307,24 @@ Gutteridge was Called to the Bar at the Inn in 1938, and at the outbreak of war 
 ## Richard Orme Wilberforce, Baron Wilberforce (1907-2003) 
 Wilberforce, a descendant of the abolitionist, was Called in 1932, and volunteered for service at the outbreak of War, being commissioned into the Royal Artillery. He served as aide-de-camp to Major-General Bernard Paget during the Norwegian Campaign in 1940, later being in charge of Army entertainments for the War Office, and was attached to the Supreme Headquarters Allied Expeditionary Force in 1944. He drafted the German Instrument of Surrender signed on 8 May 1945. He returned to the law after the war and in 1964 became a Law Lord, retiring in 1982.
 <param ve-image
-       url="https://github.com/user-attachments/assets/3b6be7a8-e2e7-43ec-93c8-d5f85183c7cb">
+       url="https://github.com/user-attachments/assets/5e44a359-7128-4951-81b3-232154c99086">
+
+##
+ 
+![baron_wilberforce](https://github.com/user-attachments/assets/5e44a359-7128-4951-81b3-232154c99086)
+
+![jess](https://github.com/user-attachments/assets/d04ee580-fe3a-4d0b-9970-69dd9a5c37ee)
+![nuremberg_pic](https://github.com/user-attachments/assets/afe4d139-9bb7-467e-a22c-cbff65775f0c)
+
+![mervyn_griffith_jones](https://github.com/user-attachments/assets/7203f513-dd68-453f-a31b-2bb77a304c57)
+![isaac_jackson_security](https://github.com/user-attachments/assets/abfc6b30-6802-4484-8970-c90de2dc0370)
+![foster_mcgeah](https://github.com/user-attachments/assets/03af13ca-4b3c-46ce-b35f-5591ca175e9f)
 
 ## Memorial of Jocelyn ‘Jack’ Simon (1911-2006) 
 Jocelyn Edward Salis Simon was Called to the Bar in 1934. At the outbreak of the Second World War, he joined the Inns of Court Regiment and was commissioned as an officer in the Royal Tank Regiment, commanding a squadron of tanks in the invasion and liberation of Madagascar. He also fought in Burma and ended the war as a Lieutenant Colonel. 
 He served as an MP after the war, and in various government positions including Solicitor General under Harold Macmillan. He resigned from the cabinet in 1962 and became a High Court Judge and later a Law Lord.
 <param ve-image
-       url="https://github.com/user-attachments/assets/93e7551e-e79e-488f-b1a5-6e7f977d6e9a">
+       url="https://github.com/user-attachments/assets/d04ee580-fe3a-4d0b-9970-69dd9a5c37ee">
 
 ## NUREMBERG
 Following the end of the war, the International Military Tribunal was convened in Nuremberg in occupied Germany, at which more than twenty of the most prominent surviving leaders of the Nazi regime were put on trial. 
@@ -334,7 +336,7 @@ This photograph shows the inside of the courtroom at Nuremberg. It depicts G.D. 
 ## Members of the British delegation at Nuremberg 
 This photograph shows members the British delegation at the airport, including Sir David Maxwell Fyfe, Sir Henry MacGeagh and G.D. ‘Khaki’ Roberts.
 <param ve-image
-       url="https://github.com/user-attachments/assets/583a28f2-30f4-4140-9609-5fab9c9fac92">
+       url="https://github.com/user-attachments/assets/afe4d139-9bb7-467e-a22c-cbff65775f0c">
 
 ## ‘Nurnberg’, Charles W. Alexander, 1946 
 This volume was donated to the Library by the Treasurer, Kenneth Carpmael, in 1961. Compiled by the photographer Charles W. Alexander, it contains photographs of the trials at Nuremberg as well as scenes from the city itself. The cover shows the Palace of Justice, where the trials were held.
@@ -342,14 +344,14 @@ This volume was donated to the Library by the Treasurer, Kenneth Carpmael, in 19
 ## Armorial Panel of Mervyn Griffith Jones (1909-1973) 
 Mervyn Griffith-Jones was Called to the Bar in 1932 and served with the Coldstream Guards during the Second World War, being awarded the MC. He was a junior prosecuting counsel in the British delegation at Nuremberg. He later led the prosecution of Penguin Books in the Lady Chatterley trial.
 <param ve-image
-       url="https://github.com/user-attachments/assets/b243d6f3-6d4d-4649-9dd0-32b30ca2a2b8">
+       url="https://github.com/user-attachments/assets/7203f513-dd68-453f-a31b-2bb77a304c57">
 
 ## Security of Isaac Jackson as Under Treasurer, 1717 
 Isaac Jackson served as Under Treasurer to the Inn from 1717 to 1726. His descendant, Robert H. Jackson, was an American Lawyer who served on the Supreme Court from 1941 to 1954. He was the United States Chief Prosecutor at Nuremberg, giving memorable opening and closing addresses before the court.
 <param ve-image
-       url="https://github.com/user-attachments/assets/2e1f712f-c18f-4b7e-858c-18febafc27d2">
+       url="https://github.com/user-attachments/assets/abfc6b30-6802-4484-8970-c90de2dc0370">
 
 ## Colonel Sir Henry Davies Foster MacGeagh (1883-1962), c1904 
 Henry MacGeagh was Called to the Bar at the Inn in 1906 and became a Bencher in 1931. He served as Judge Advocate General of the Armed Forces from 1934 to 1955, and was present among the British delegation at Nuremberg. 
 <param ve-image
-       url="https://github.com/user-attachments/assets/edb377dc-c971-45d1-8041-dde5b178bbb4">
+       url="https://github.com/user-attachments/assets/03af13ca-4b3c-46ce-b35f-5591ca175e9f">
