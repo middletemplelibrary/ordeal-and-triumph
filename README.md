@@ -1,14 +1,20 @@
 <param ve-config 
        title="Ordeal and Triumph"
        author="Middle Temple Library"
-       banner="https://github.com/user-attachments/assets/be4808e4-5f7b-4c20-af73-2bf4e9019602"
+       banner="https://github.com/user-attachments/assets/55814e4f-d1c3-4b31-a8cc-1582a6aa479b)"
        layout="vertical">
+
+
+
+       
 ## 
 Welcome to Middle Temple Library’s exhibition on Middle Temple and the Second World War. 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
 ##
+![1](https://github.com/user-attachments/assets/55814e4f-d1c3-4b31-a8cc-1582a6aa479b)
+
 
 2025 marks eighty years since the end of the Second World War. Using material from the Inn’s Archive and Library collections, this exhibition explores the wartime experience of the Middle Temple and its members. 
 <br><br>
