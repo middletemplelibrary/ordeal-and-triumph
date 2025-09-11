@@ -319,6 +319,10 @@ A newspaper advertisement placed in 1961 requested information about members of 
 
 ## Joyce Gutteridge 
 Gutteridge was Called to the Bar at the Inn in 1938, and at the outbreak of war became an army lawyer with the Auxiliary Territorial Service. She later played a key role in drafting the 1949 Geneva Conventions and worked for many years for the Foreign Office.
+<param ve-image
+       url="https://github.com/user-attachments/assets/f51c276c-9380-45bb-819d-96bcb88ad524">
+
+![joyce_gutteridge](https://github.com/user-attachments/assets/f51c276c-9380-45bb-819d-96bcb88ad524)
 
 ## Richard Orme Wilberforce, Baron Wilberforce (1907-2003) 
 Wilberforce, a descendant of the abolitionist, was Called in 1932, and volunteered for service at the outbreak of War, being commissioned into the Royal Artillery. He served as aide-de-camp to Major-General Bernard Paget during the Norwegian Campaign in 1940, later being in charge of Army entertainments for the War Office, and was attached to the Supreme Headquarters Allied Expeditionary Force in 1944. He drafted the German Instrument of Surrender signed on 8 May 1945. He returned to the law after the war and in 1964 became a Law Lord, retiring in 1982.
@@ -347,9 +351,6 @@ This photograph shows members the British delegation at the airport, including S
 This volume was donated to the Library by the Treasurer, Kenneth Carpmael, in 1961. Compiled by the photographer Charles W. Alexander, it contains photographs of the trials at Nuremberg as well as scenes from the city itself. The cover shows the Palace of Justice, where the trials were held.
 <param ve-image
        url="https://github.com/user-attachments/assets/1c852e6e-3062-48d7-b9d4-9f479e24ac5c">
-
-![nurnberg](https://github.com/user-attachments/assets/1c852e6e-3062-48d7-b9d4-9f479e24ac5c)
-
 
 ## Armorial Panel of Mervyn Griffith Jones (1909-1973) 
 Mervyn Griffith-Jones was Called to the Bar in 1932 and served with the Coldstream Guards during the Second World War, being awarded the MC. He was a junior prosecuting counsel in the British delegation at Nuremberg. He later led the prosecution of Penguin Books in the Lady Chatterley trial.
