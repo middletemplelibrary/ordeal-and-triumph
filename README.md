@@ -139,12 +139,11 @@ Commemorating the Dig for Victory campaign, the kitchen garden will be growing h
 ## The Royal Rifle Corps in Middle Temple Garden, 1940s 
 This photograph shows members of the Royal Rifle Corps exercising in the garden. This memento was sent to the Inn after the war by the Sports and Physical Training Officer “in appreciation of your kindness in consenting to our using your ground for Physical Training for the troops”.
 <param ve-image
-       url="https://github.com/user-attachments/assets/b443907b-5dbe-4985-a83a-be18819bb040">
+       url=https://github.com/user-attachments/assets/5acdf2bd-4d5d-4365-897f-a3f08a875b91">
 
        ##
-![the_gardens](https://github.com/user-attachments/assets/f4cbb104-491a-47dd-afe5-1441ce1974ed)
+![royal_life_corps_at_mt](https://github.com/user-attachments/assets/5acdf2bd-4d5d-4365-897f-a3f08a875b91)
 
-       ![royal_life_corps_at_mt](https://github.com/user-attachments/assets/b443907b-5dbe-4985-a83a-be18819bb040)
 
 
 ## The Ordeal
