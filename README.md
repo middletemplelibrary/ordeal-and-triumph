@@ -17,8 +17,11 @@ Countless Middle Templars made their own remarkable contributions to the wider w
 <br><br>
 Below are some of the items it featured.
 <param ve-image
-       label="View of damage to the Hall"
-       url="https://github.com/user-attachments/assets/4e3440f7-125a-47db-856d-01eb8e9fde01">
+       label="Middle Temple ordeal : being an account of what World War II meant to the Inn"
+       url="https://github.com/user-attachments/assets/f675ea63-8845-4581-82ef-5e9dd1203378">
+
+       
+![middle_temple_ordeal_pamphlet](https://github.com/user-attachments/assets/f675ea63-8845-4581-82ef-5e9dd1203378)
 
 ## Fragment of the Hall Screen
 This fragment of wood is thought to have come from the Elizabethan screen in the Hall, blown to smithereens during the Blitz in October 1940.
@@ -227,8 +230,6 @@ By 1949, the Hall had been restored, and Queen Elizabeth, serving in that year a
 <param ve-image
        url="https://github.com/user-attachments/assets/d7313d3b-7a2b-47b8-8027-59be8de4b52b">
 
-![queen_reopening_hall](https://github.com/user-attachments/assets/d7313d3b-7a2b-47b8-8027-59be8de4b52b)
-
 ## Intelligence, Government and the Home Front
 Countless Middle Templars contributed to the war effort behind the scenes and at home - at the highest levels of military intelligence and government, as participants in the many organisations and initiatives which sprung up over the war years, and, often unrecorded, in their everyday lives.
 
@@ -253,9 +254,6 @@ Montagu told his story in The Man Who Never Was. The book was later adapted for 
 <param ve-image
        url="https://github.com/user-attachments/assets/24479bb1-6a5f-4b26-b5d4-7a8747066ed9">
        
-![the_man_who_never_was](https://github.com/user-attachments/assets/24479bb1-6a5f-4b26-b5d4-7a8747066ed9)
-
-
 ## Elsie Bowerman (1889-1973) 
 Elsie Bowerman was Called to the Bar in 1924. Before joining the Inn, she had survived the sinking of the Titanic, witnessed the start of the Russian Revolution in Petrograd, and been active in the suffrage movement.
 During the Second World War, she worked at the Ministry of Information and with the Women’s Voluntary Service. Following the war she helped to set up the UN Commission on the Status of Women.
@@ -269,7 +267,7 @@ Cripps was appointed Ambassador to the Soviet Union by Churchill in 1940, and he
        url="https://github.com/user-attachments/assets/f871f1e5-f38d-40d2-8b1d-2439f34e755d">
 
 ## Stella Isaacs, Marchioness of Reading and Baroness Swanborough (1894-1971) 
-Stella Isaacs was the widow of Rufus Isaacs, Marquess of Reading, Lord Chief Justice, Viceroy of India and Middle Templar, whose portrait hangs in the Parliament Chamber. 
+Stella Isaacs was the widow of Rufus Isaacs, Marquess of Reading, Lord Chief Justice, Viceroy of India and Middle Templar, whose portrait hangs in the Parliament Chamber. <br /><br />
 In 1938 she was asked by the government to set up what would go on to be called the Women’s Voluntary Service. The WVS recruited women to volunteer in all manner of capacities to assist the government and local authorities, including Air Raid Precautions, evacuation, childcare and supporting refugees. She later became the first female peer to sit in the House of Lords.
 
 ## Sybil Campbell (1889-1977) 
