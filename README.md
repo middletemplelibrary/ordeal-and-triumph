@@ -206,6 +206,8 @@ The devastation of the Temple necessitated a seemingly never-ending clearance op
 Victory in Europe was declared on 8 May 1945, and the war came to an end later that summer. However, the long ordeal was far from over for the Middle Temple. Vast swathes of the estate lay in ruins, educational and collegiate life had been suspended for over half a decade, and hundreds of members of the Inn remained in military and civilian service both at home and abroad. <br /><br />
 Giving a speech on the occasion of her Royal Bench Call in 1944, Queen Elizabeth (later the Queen Mother) had declared: “whilst our walls may crumble, this is of small account so long as the virtues and graces for which this Inn has ever stood continue unshaken and unshakeable. It is upon their foundation that you will rebuild; your Courts and Chambers will rise with a greater strength and a new beauty.” <br /><br />
 Just as Her Majesty had predicted, in the long years following the war the Inn came gradually back to life amongst ongoing rationing and other privations, and new buildings rose up in place of old. Fittingly, the restored Hall was formally re-opened by the Queen in 1949.
+<param ve-image
+       url="https://github.com/user-attachments/assets/f4d98280-7724-4afc-9126-11d71edec7a1">
 
 ## Restoration of the Screen, 1940s
 After its destruction in 1940, the splintered fragments of the screen were gathered up into some 200 sacks. Following the war, these pieces were painstaking reassembled in what may be the biggest jigsaw puzzle in history, based on surviving drawings.
@@ -229,6 +231,8 @@ By 1949, the Hall had been restored, and Queen Elizabeth, serving in that year a
 
 ## Intelligence, Government and the Home Front
 Countless Middle Templars contributed to the war effort behind the scenes and at home - at the highest levels of military intelligence and government, as participants in the many organisations and initiatives which sprung up over the war years, and, often unrecorded, in their everyday lives.
+<param ve-image
+       url="https://github.com/user-attachments/assets/63592efa-2450-4fa5-9b87-ef7a7477e4f9">
 
 ## Sir Eric Sachs (1898-1979) 
 Eric Sachs was Called in 1921 and became a KC in 1938. He joined the War Office at the outbreak of war and swiftly earned an MBE. In 1942 he was transferred to political warfare and was seconded to the Foreign Office. Here, he produced what became known as the Basic Handbooks (see nearby). He became a Bencher in 1947 and served as Treasurer in 1967, later establishing the Lord Justice Sachs Entrance Exhibition.
@@ -275,8 +279,12 @@ Sybil Campbell was one of the first cohort of nine women Called to the Bar at th
 ## Military Service 
 Hundreds of members of the Middle Temple served in the British armed forces throughout the Second World War. Whether serving on the front line as soldiers, pilots or sailors, as military lawyers or medical officers, or holding senior staff appointments, the contribution of Middle Templars to the military struggle was extensive and profound. Many were killed in action or captured as prisoners of war, and several showed outstanding heroism. 
 
+![uncertain_voyage](https://github.com/user-attachments/assets/39b1b3a3-86fe-4543-ab42-ecf1ce0fe983)
+
 ## An Uncertain Voyage, Anthony Babington, 2000
 Anthony Babington grew up in India and England and served with the Royal Ulster Rifles and the Dorset Regiment in the Second World War. At the Battle of Arnhem in 1944 he was badly wounded and was expected never to walk or talk again. He eventually recovered the ability to speak and write, and eventually to walk, and was Called to the Bar at the Inn in 1948, later serving as a circuit judge.
+<param ve-image
+       url="https://github.com/user-attachments/assets/39b1b3a3-86fe-4543-ab42-ecf1ce0fe983">
 
 ## Sir Tasker Watkins (1918-2007) 
 Tasker Watkins joined the British Army in 1939 and arrived in Normandy with the 53rd (Welsh) Infantry Division shortly after the D-Day landings. He fought in the battle of the Falaise Pocket and was awarded the VC for his gallantry, which is described in detail above.
