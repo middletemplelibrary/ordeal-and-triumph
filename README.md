@@ -160,19 +160,6 @@ This notice highlights the importance of proper and safe use of the air raid she
 <param ve-image
        url="https://github.com/user-attachments/assets/f3be11b7-e4af-4f99-990c-8928fa880db3">
 
-##
-
- ![full_view_of_hall](https://github.com/user-attachments/assets/42c6f34f-ea91-453a-be78-036798c6d33d)
- ![air_raid_shelter_notice](https://github.com/user-attachments/assets/f3be11b7-e4af-4f99-990c-8928fa880db3)
-
-![middle_temple_lane_damage](https://github.com/user-attachments/assets/1c7d485b-caec-49ef-97e8-f86d8a1154a1)
-![more_damage_on_the_lane](https://github.com/user-attachments/assets/c1eb81a8-4332-4c24-a7e2-dd88af23f288)
-
-![wartime_recollections](https://github.com/user-attachments/assets/32a803a9-1ea8-435e-83fb-0ad5711544e8)
-![middle_temple_library](https://github.com/user-attachments/assets/8832e4b7-e286-4312-9c2f-20f85506d269)
-
-
-
 ## Middle Temple Lane, October 1940 
 This view down Middle Temple captures the aftermath of the devastation of 15 October 1940, in which Elm Court was destroyed and the Hall badly damaged.
 <param ve-image
@@ -194,25 +181,35 @@ On the night of 8 December 1940, a bomb fell in the garden, close to the Inn’s
 <param ve-image
        url="https://github.com/user-attachments/assets/8832e4b7-e286-4312-9c2f-20f85506d269">
 
+##
+![pump_court](https://github.com/user-attachments/assets/a1f886e8-1f28-4453-bd55-52c987597d2e)
+![temple_church_register](https://github.com/user-attachments/assets/430fef1f-ed69-456f-99f5-8ca6e3e055b7)
+![hall_roof_burning](https://github.com/user-attachments/assets/d9436a93-49a2-40ef-a88a-ae2247901c99)
+![temple_church_debris](https://github.com/user-attachments/assets/30e0045c-2f01-4aa7-ba62-b08433756228)
+![27th_november](https://github.com/user-attachments/assets/f7e1420d-45e9-4bdf-8326-0194c5d8916b)
+![armorial_plate_sachs](https://github.com/user-attachments/assets/63592efa-2450-4fa5-9b87-ef7a7477e4f9)
+![germany_basic_book](https://github.com/user-attachments/assets/5311fc2f-825d-4161-998b-8c34b5d19d23)
+
+
 ## Pump Court, May 1941 
 This photograph shows damage to Pump Court following the devastating raid of May 10-11 1941. Water from firemen’s hoses floods the court, and the ruins of the Cloisters can be seen in the distance, with still-smouldering debris beyond.
 <param ve-image
-       url="https://github.com/user-attachments/assets/7d476938-70ca-4fa6-8956-e2e6c8bb129d">
+       url="https://github.com/user-attachments/assets/a1f886e8-1f28-4453-bd55-52c987597d2e">
 
 ## Temple Church Register, 1695-1756
 During the raid of May 10-11, the Temple Church was devastated by bombing  and subsequent conflagration. The fire which tore through the church damaged the registers of baptisms, marriages and burials which had been kept for centuries: the blackened edges of the pages of this volume are testament to the intensity of the blaze.
 <param ve-image
-       url="https://github.com/user-attachments/assets/8c4281ef-e6f5-418b-ab9b-98d69d898b7b">
+       url="https://github.com/user-attachments/assets/430fef1f-ed69-456f-99f5-8ca6e3e055b7">
 
 ## Hall Roof burning, March 1944 
 On the night of March 24-25, 1944, 140 incendiary bombs fell in the Middle Temple, starting nineteen fires, including a serious blaze on the roof of the Hall. With the aid of the National Fire Service, the Inn’s own fire-watchers and pump-crew fought the fire for hours, from inside and outside the Hall, until eventually, at about four in the morning, it was extinguished.
 <param ve-image
-       url="https://github.com/user-attachments/assets/67d12f8d-3189-4253-a3af-c6237c824f80">
+       url="https://github.com/user-attachments/assets/d9436a93-49a2-40ef-a88a-ae2247901c99">
 
 ## Clearance of debris outside Temple Church, November 1941 
 The devastation of the Temple necessitated a seemingly never-ending clearance operation. In this photograph, taken some months after the end of the Blitz, two workmen tip debris down chutes into large barrels. The Round of the Temple Church, its roof utterly destroyed earlier that year, can be seen in the background.
 <param ve-image
-       url="https://github.com/user-attachments/assets/c4ddcebd-9b84-45a1-9e44-7688a434cd5a">
+       url="https://github.com/user-attachments/assets/30e0045c-2f01-4aa7-ba62-b08433756228">
 
 ## The Aftermath of the War
 Victory in Europe was declared on 8 May 1945, and the war came to an end later that summer. However, the long ordeal was far from over for the Middle Temple. Vast swathes of the estate lay in ruins, educational and collegiate life had been suspended for over half a decade, and hundreds of members of the Inn remained in military and civilian service both at home and abroad. <br>
@@ -228,7 +225,7 @@ This photograph shows the restoration of Hall at an early stage, with work under
 ## Application for increase of Rations and Points, 1947 
 In this note, the Under Treasurer writes to the Food Office with details of hot beverages and meals served at the Inn in the past four weeks. Rationing would not formally be ended until 1954.
 <param ve-image
-       url="https://github.com/user-attachments/assets/2e633902-0475-4fbc-9ea1-822c146af451">
+       url="https://github.com/user-attachments/assets/f7e1420d-45e9-4bdf-8326-0194c5d8916b">
 
 ## Queen Elizabeth at the re-opening of Hall, 1949
 By 1949, the Hall had been restored, and Queen Elizabeth, serving in that year as the Inn’s Treasurer, formally re-opened the building on July 6.
@@ -240,18 +237,18 @@ Countless Middle Templars contributed to the war effort behind the scenes and at
 ## Sir Eric Sachs (1898-1979) 
 Eric Sachs was Called in 1921 and became a KC in 1938. He joined the War Office at the outbreak of war and swiftly earned an MBE. In 1942 he was transferred to political warfare and was seconded to the Foreign Office. Here, he produced what became known as the Basic Handbooks (see nearby). He became a Bencher in 1947 and served as Treasurer in 1967, later establishing the Lord Justice Sachs Entrance Exhibition.
 <param ve-image
-       url="https://github.com/user-attachments/assets/ab510ef0-d975-4a65-8b80-6ce3e126e784">
+       url="https://github.com/user-attachments/assets/63592efa-2450-4fa5-9b87-ef7a7477e4f9">
 
 ## Germany Basic Handbook, Volume 1, 1944 
-The Basic Handbooks were a series of volumes produced under the leadership of Master Eric Sachs as Director of the Directorate of Political Warfare Intelligence, covering in extensive detail enemy countries and those in enemy occupation. They encompass information on administration, politics, economics, history and national characteristics. 
+The Basic Handbooks were a series of volumes produced under the leadership of Master Eric Sachs as Director of the Directorate of Political Warfare Intelligence, covering in extensive detail enemy countries and those in enemy occupation. They encompass information on administration, politics, economics, history and national characteristics. <br /><br />
 The goal of the handbooks was to provide guidance to Commanders-in-Chief and their staffs faced with the need to take over the administration of countries they had liberated or conquered.
 <param ve-image
-       url="https://github.com/user-attachments/assets/c988c8e9-6b8c-46c2-8598-de0e5da1aa12">
+       url="https://github.com/user-attachments/assets/5311fc2f-825d-4161-998b-8c34b5d19d23">
 
 ## Ewen Edward Samuel Montagu (1901-1985) 
 A KC and Bencher of the Inn, Ewen Montagu was assigned to the Naval Intelligence Division early in the war. He was responsible for the conception of Operation Mincemeat, a now famous deception operation carried out in 1943. The operation involved a corpse dressed in British military uniform being washed ashore in Spain carrying false papers relating to plans for an invasion of Greece. The operation fooled the Germans, who diverted their forces to Greece and thus away from Sicily, where the real invasion was to take place.
 <param ve-image
-       url="https://github.com/user-attachments/assets/4889db05-f555-4b24-902e-0632bb3ec022)">
+       url="https://github.com/user-attachments/assets/4889db05-f555-4b24-902e-0632bb3ec022">
 
 ## The Man Who Never Was, 1953 
 Montagu told his story in The Man Who Never Was. The book was later adapted for the cinema in 1956 under the same title. The story has since been retold in another film, Operation Mincemeat in 2022, and as a popular West End musical.
