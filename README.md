@@ -1,7 +1,7 @@
 <param ve-config 
        title="Ordeal and Triumph"
        author="Middle Temple Library"
-       banner="https://github.com/user-attachments/assets/55814e4f-d1c3-4b31-a8cc-1582a6aa479b)"
+       banner="https://github.com/user-attachments/assets/55814e4f-d1c3-4b31-a8cc-1582a6aa479b"
        layout="vertical">
 
 
