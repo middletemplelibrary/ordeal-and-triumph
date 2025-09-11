@@ -41,10 +41,9 @@ Victory in Europe was announced on 8 May 1945, following the surrender of Nazi G
        url="https://github.com/user-attachments/assets/dafa80e3-7260-4650-81ff-ed2025090074">
 
 ## Preparations for War
-As the international situation became increasingly perilous in the late 1930s, the expectation of war spread, and soon preparations were afoot across the land, including at the Inn. In 1938 a committee was appointed to ‘consider protection against air attack’ and the Surveyor was instructed to prepare air raid shelters. While the Munich Agreement of 1938 offered a brief reprieve, by the summer of 1939 war looked inevitable. 
-A joint ARP committee with Inner Temple was formed and volunteers sought to act as fire-fighters, wardens, stretcher bearers and first aiders. Instruction was provided on fire-fighting, gas attacks and first aid, and supplies of medicine, equipment and clothing were ordered. Many of the Inn’s prized collections were stored or sent away for safety, including stained glass, paintings, silver and the archives. 
+As the international situation became increasingly perilous in the late 1930s, the expectation of war spread, and soon preparations were afoot across the land, including at the Inn. In 1938 a committee was appointed to ‘consider protection against air attack’ and the Surveyor was instructed to prepare air raid shelters. While the Munich Agreement of 1938 offered a brief reprieve, by the summer of 1939 war looked inevitable. <br/><br />
+A joint ARP committee with Inner Temple was formed and volunteers sought to act as fire-fighters, wardens, stretcher bearers and first aiders. Instruction was provided on fire-fighting, gas attacks and first aid, and supplies of medicine, equipment and clothing were ordered. Many of the Inn’s prized collections were stored or sent away for safety, including stained glass, paintings, silver and the archives. <br/><br />
 The Second World War began on 1 September 1939, and the Minutes of the Inn’s Parliament on 18 September record that: “Master Treasurer reported that the Air Raid Precautions arrangements were complete”. The Standing Orders were suspended, dining terms cancelled and the whole governance of the Inn left in the hands of a Special War Committee of three Benchers. 
-<br><br>
 
 ## ARP Training Notice, 1939
 This notice advertises courses of instruction for Air Raid Precautions volunteers, including first aid, fire-fighting and anti-gas training, the latter provided by H.A.C. Sturgess, the Inn’s Librarian. 
@@ -59,20 +58,33 @@ These documents offer an insight in the detailed preparations for war at the Inn
        url="https://github.com/user-attachments/assets/5d24d14d-42c7-4fd4-a54b-016296facbde">
 
 ## Letters regarding availability during the Long Vacation, 1939
-On 18 July 1939 a note was sent to Middle Temple residents asking for their movements during August and September, “in order to provide for possible emergencies during the Long Vacation”, so that the ARP committee might make arrangements for the duties of those available. 
+On 18 July 1939 a note was sent to Middle Temple residents asking for their movements during August and September, “in order to provide for possible emergencies during the Long Vacation”, so that the ARP committee might make arrangements for the duties of those available. <br/><br />
 Most respondents readily agreed to assist, though some noted the likelihood of their being called up for military service, and one noted (by postcard) that he was unlikely to be returning from France in the near future.
 <param ve-image
        label="First Aid Equipment"
        url="https://github.com/user-attachments/assets/01980351-fdeb-4d7f-b120-83829c19330d">
 <param ve-image
        label="Letter Regarding Movements M. Goodwin"
-       url="https://github.com/user-attachments/assets/bcc9efde-dda3-42ef-b2d2-e5ccc2bb123a">
+       url="https://github.com/user-attachments/assets/b0b69bf7-3021-4845-8ccb-2e1bc9aabffa">
 <param ve-image
        label="Letter regarding Movements"
-       url="https://github.com/user-attachments/assets/7aa8b00d-f4b9-4d77-80d4-5b2b252ffdb5">
+       url="https://github.com/user-attachments/assets/633b336d-c410-4d2b-9183-a95d80c430dc">
 <param ve-image
        label="Letter regarding Movements K. Diplock"
-       url="https://github.com/user-attachments/assets/143bfd7d-ed9b-47d4-b567-4fefc2a15c56">
+       url="https://github.com/user-attachments/assets/83e53be2-250f-4667-9b2e-6a0f0e1bd8fc">
+
+
+   ##
+![2nd_letter](https://github.com/user-attachments/assets/b0b69bf7-3021-4845-8ccb-2e1bc9aabffa)
+
+![3rd_letter](https://github.com/user-attachments/assets/633b336d-c410-4d2b-9183-a95d80c430dc)
+
+![4th_letter](https://github.com/user-attachments/assets/83e53be2-250f-4667-9b2e-6a0f0e1bd8fc)
+
+
+
+   
+
 
 ## Memorandum regarding the transfer of the 1608 Letters Patent and other records, 1939
 Shortly before the start of the war, the 1608 Letters Patent issued by James I which granted the lands of the Temple to the Middle Temple and the Inner Temple, was inspected and then packed up. It was then sent, alongside the archives of the Inn, to the care of Master Wintringham Norton Stable, who had offered to house these treasures in his home at Plas Llywn Owen in Montgomeryshire, Wales. 
