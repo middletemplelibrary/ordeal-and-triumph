@@ -115,25 +115,29 @@ Military uniforms were to be seen in increasing numbers in and around the Temple
 A good supply of water was critical to efforts to fight fires resulting from bombing raids. The Inn’s 17th century fountain was transformed, at the request of the National Fire Service, into a reservoir for water in the summer of 1941.
 <param ve-image
        url="https://github.com/user-attachments/assets/0509bf92-f4ff-4336-97ae-cd5e06d8ec74">
-##
-
-![building_fountain](https://github.com/user-attachments/assets/0509bf92-f4ff-4336-97ae-cd5e06d8ec74)
-
-
+       
 ## Plan of proposed pipe line, Middle Temple Lane, 1943 
 Throughout the war the Inn worked closely with the National Fire Service, housing and purchasing fire engines, hoses and pumps at their recommendation and request. In 1943, the NFS provided this plan, accompanying a request to bury a steel pipe under Middle Temple Lane to aid water supply for fire-fighting.
 <param ve-image
-       url="https://github.com/user-attachments/assets/7bc0ade8-13ce-4a61-b1a3-5236e3ffdcbe">
+       url="https://github.com/user-attachments/assets/9c5d3169-3940-4590-a88c-3297f96f2418">
+
+##
+
+![garden_allotments](https://github.com/user-attachments/assets/ff28df2e-b500-4fa3-a98d-cc7d6da25ff6)
+
+![dig_for_victory](https://github.com/user-attachments/assets/97ae090f-6e2f-465b-abe2-b460dbfd0db6)
+![pipe_line](https://github.com/user-attachments/assets/9c5d3169-3940-4590-a88c-3297f96f2418)
+
 
 ## Allotments in Middle Temple Garden, 1942 
 By the summer of 1940, it was reported in the Observer that the old tennis courts in the garden had been converted into allotments, growing tomatoes, cabbages, and lines of beans.
 <param ve-image
-       url="https://github.com/user-attachments/assets/5d072f27-095b-4078-bf20-cf942635a1c0">
+       url="https://github.com/user-attachments/assets/ff28df2e-b500-4fa3-a98d-cc7d6da25ff6">
 
 ## ‘Dig for Victory’ poster, 1942 
 add text.
 <param ve-image
-       url="https://github.com/user-attachments/assets/ce7c821a-dbe5-465b-9f58-2c6a7bb1eae0">
+       url="https://github.com/user-attachments/assets/97ae090f-6e2f-465b-abe2-b460dbfd0db6">
 
 ## The Kitchen Garden, 2025 
 Commemorating the Dig for Victory campaign, the kitchen garden will be growing heirloom and heritage varieties that would have been grown at the time of WW2. Varieties such as Tomato ‘Ailsa Craig’, Runner Bean ‘Painted Lady’, and Brussel Sprout ‘Long Island’. Companion planting of flowers and strongly scented herbs will ward off any unwanted pests, rather than using the chemicals of the 1940s such as Nicotine, DDT, and Paris Green. Please feel free to have a visit and taste a tomato or two.
