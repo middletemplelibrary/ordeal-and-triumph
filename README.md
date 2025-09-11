@@ -97,9 +97,11 @@ This volume reports breaches of blackout regulations in the Temple and action ta
 ## Notice Regarding Blackout Violations, 1939
 This notice reminds residents of the importance of adhering to Blackout regulations, and notes the necessity of taking steps to extinguish lights around the Temple.
 <param ve-image
-       url="https://github.com/user-attachments/assets/f7b5974f-b3bc-4123-a226-f1bcf5afb6ba">
+       url="https://github.com/user-attachments/assets/bd8cb3b2-a39f-4c3e-b4c1-d48f0ba9c523">
 
 ## ‘In an Air Raid… If You Are at Home’ poster, c1940
+![arp_notice](https://github.com/user-attachments/assets/bd8cb3b2-a39f-4c3e-b4c1-d48f0ba9c523)
+
 
 add text.
 <param ve-image
