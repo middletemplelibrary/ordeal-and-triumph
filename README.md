@@ -279,8 +279,6 @@ Sybil Campbell was one of the first cohort of nine women Called to the Bar at th
 ## Military Service 
 Hundreds of members of the Middle Temple served in the British armed forces throughout the Second World War. Whether serving on the front line as soldiers, pilots or sailors, as military lawyers or medical officers, or holding senior staff appointments, the contribution of Middle Templars to the military struggle was extensive and profound. Many were killed in action or captured as prisoners of war, and several showed outstanding heroism. 
 
-![uncertain_voyage](https://github.com/user-attachments/assets/39b1b3a3-86fe-4543-ab42-ecf1ce0fe983)
-
 ## An Uncertain Voyage, Anthony Babington, 2000
 Anthony Babington grew up in India and England and served with the Royal Ulster Rifles and the Dorset Regiment in the Second World War. At the Battle of Arnhem in 1944 he was badly wounded and was expected never to walk or talk again. He eventually recovered the ability to speak and write, and eventually to walk, and was Called to the Bar at the Inn in 1948, later serving as a circuit judge.
 <param ve-image
@@ -347,6 +345,11 @@ This photograph shows members the British delegation at the airport, including S
 
 ## ‘Nurnberg’, Charles W. Alexander, 1946 
 This volume was donated to the Library by the Treasurer, Kenneth Carpmael, in 1961. Compiled by the photographer Charles W. Alexander, it contains photographs of the trials at Nuremberg as well as scenes from the city itself. The cover shows the Palace of Justice, where the trials were held.
+<param ve-image
+       url="https://github.com/user-attachments/assets/1c852e6e-3062-48d7-b9d4-9f479e24ac5c">
+
+![nurnberg](https://github.com/user-attachments/assets/1c852e6e-3062-48d7-b9d4-9f479e24ac5c)
+
 
 ## Armorial Panel of Mervyn Griffith Jones (1909-1973) 
 Mervyn Griffith-Jones was Called to the Bar in 1932 and served with the Coldstream Guards during the Second World War, being awarded the MC. He was a junior prosecuting counsel in the British delegation at Nuremberg. He later led the prosecution of Penguin Books in the Lady Chatterley trial.
