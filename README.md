@@ -121,14 +121,6 @@ Throughout the war the Inn worked closely with the National Fire Service, housin
 <param ve-image
        url="https://github.com/user-attachments/assets/9c5d3169-3940-4590-a88c-3297f96f2418">
 
-##
-
-![garden_allotments](https://github.com/user-attachments/assets/ff28df2e-b500-4fa3-a98d-cc7d6da25ff6)
-
-![dig_for_victory](https://github.com/user-attachments/assets/97ae090f-6e2f-465b-abe2-b460dbfd0db6)
-![pipe_line](https://github.com/user-attachments/assets/9c5d3169-3940-4590-a88c-3297f96f2418)
-
-
 ## Allotments in Middle Temple Garden, 1942 
 By the summer of 1940, it was reported in the Observer that the old tennis courts in the garden had been converted into allotments, growing tomatoes, cabbages, and lines of beans.
 <param ve-image
@@ -142,12 +134,18 @@ add text.
 ## The Kitchen Garden, 2025 
 Commemorating the Dig for Victory campaign, the kitchen garden will be growing heirloom and heritage varieties that would have been grown at the time of WW2. Varieties such as Tomato ‘Ailsa Craig’, Runner Bean ‘Painted Lady’, and Brussel Sprout ‘Long Island’. Companion planting of flowers and strongly scented herbs will ward off any unwanted pests, rather than using the chemicals of the 1940s such as Nicotine, DDT, and Paris Green. Please feel free to have a visit and taste a tomato or two.
 <param ve-image
-       url="https://github.com/user-attachments/assets/6c8fff44-7ec5-4169-bef3-918af1ccc989">
+       url="https://github.com/user-attachments/assets/f4cbb104-491a-47dd-afe5-1441ce1974ed">
 
 ## The Royal Rifle Corps in Middle Temple Garden, 1940s 
 This photograph shows members of the Royal Rifle Corps exercising in the garden. This memento was sent to the Inn after the war by the Sports and Physical Training Officer “in appreciation of your kindness in consenting to our using your ground for Physical Training for the troops”.
 <param ve-image
-       url="https://github.com/user-attachments/assets/12c4dcb6-a0d6-4b2e-9aaf-82251ccbe259)">
+       url="https://github.com/user-attachments/assets/b443907b-5dbe-4985-a83a-be18819bb040">
+
+       ##
+![the_gardens](https://github.com/user-attachments/assets/f4cbb104-491a-47dd-afe5-1441ce1974ed)
+
+       ![royal_life_corps_at_mt](https://github.com/user-attachments/assets/b443907b-5dbe-4985-a83a-be18819bb040)
+
 
 ## The Ordeal
 After the long months of preparation and waiting, the Blitz began on 7 September 1940, and the first bombs fell on the Inn a few weeks later, hitting 1 Elm Court. The Under Treasurer, Fireman and Cashier were all fire-watching on top of 4 Elm Court when the building was hit. “Well, we thought that was enough of that”, wrote the Under Treasurer later on. Over the next weeks and months, hundreds more bombs would fall, causing catastrophic damage to chambers buildings, Temple Church, the Library and the Hall. 
