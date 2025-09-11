@@ -19,6 +19,7 @@ Below are some of the items it featured.
 <param ve-image
        label="Middle Temple ordeal : being an account of what World War II meant to the Inn"
        url="https://github.com/user-attachments/assets/f675ea63-8845-4581-82ef-5e9dd1203378">
+       
 ## Fragment of the Hall Screen
 This fragment of wood is thought to have come from the Elizabethan screen in the Hall, blown to smithereens during the Blitz in October 1940.
 <param ve-image
@@ -32,12 +33,6 @@ This photograph shows a Call ceremony taking place with the shored-up hole made 
 <param ve-image
        label="Call Ceremony in Bomb-damaged Hall"
        url="https://github.com/user-attachments/assets/eeb9c266-3b13-4119-be1c-3aeb0dc362e4">
-
-      ##
-
-      
-![call_ceremony](https://github.com/user-attachments/assets/eeb9c266-3b13-4119-be1c-3aeb0dc362e4)
-
 
 ## Revellers on Fleet Street, Victory in Europe Day, 1945 
 Victory in Europe was announced on 8 May 1945, following the surrender of Nazi Germany, triggering widespread jubilation. This photograph shows the celebrations on nearby Fleet Street, in which members, residents and staff of the Inn no doubt took part. 
