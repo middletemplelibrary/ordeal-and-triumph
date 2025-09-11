@@ -181,16 +181,6 @@ On the night of 8 December 1940, a bomb fell in the garden, close to the Inn’s
 <param ve-image
        url="https://github.com/user-attachments/assets/8832e4b7-e286-4312-9c2f-20f85506d269">
 
-##
-![pump_court](https://github.com/user-attachments/assets/a1f886e8-1f28-4453-bd55-52c987597d2e)
-![temple_church_register](https://github.com/user-attachments/assets/430fef1f-ed69-456f-99f5-8ca6e3e055b7)
-![hall_roof_burning](https://github.com/user-attachments/assets/d9436a93-49a2-40ef-a88a-ae2247901c99)
-![temple_church_debris](https://github.com/user-attachments/assets/30e0045c-2f01-4aa7-ba62-b08433756228)
-![27th_november](https://github.com/user-attachments/assets/f7e1420d-45e9-4bdf-8326-0194c5d8916b)
-![armorial_plate_sachs](https://github.com/user-attachments/assets/63592efa-2450-4fa5-9b87-ef7a7477e4f9)
-![germany_basic_book](https://github.com/user-attachments/assets/5311fc2f-825d-4161-998b-8c34b5d19d23)
-
-
 ## Pump Court, May 1941 
 This photograph shows damage to Pump Court following the devastating raid of May 10-11 1941. Water from firemen’s hoses floods the court, and the ruins of the Cloisters can be seen in the distance, with still-smouldering debris beyond.
 <param ve-image
@@ -248,7 +238,18 @@ The goal of the handbooks was to provide guidance to Commanders-in-Chief and the
 ## Ewen Edward Samuel Montagu (1901-1985) 
 A KC and Bencher of the Inn, Ewen Montagu was assigned to the Naval Intelligence Division early in the war. He was responsible for the conception of Operation Mincemeat, a now famous deception operation carried out in 1943. The operation involved a corpse dressed in British military uniform being washed ashore in Spain carrying false papers relating to plans for an invasion of Greece. The operation fooled the Germans, who diverted their forces to Greece and thus away from Sicily, where the real invasion was to take place.
 <param ve-image
-       url="https://github.com/user-attachments/assets/4889db05-f555-4b24-902e-0632bb3ec022">
+       url="https://github.com/user-attachments/assets/a6248b50-2434-4913-9457-c7fdd09d6b22">
+
+##
+![montagu_pic](https://github.com/user-attachments/assets/a6248b50-2434-4913-9457-c7fdd09d6b22)
+
+##
+![bowerman_pic](https://github.com/user-attachments/assets/38a8d5b2-0196-4cc2-b057-75c8d04d459e)
+![cripps_pic](https://github.com/user-attachments/assets/f871f1e5-f38d-40d2-8b1d-2439f34e755d)
+![s_campbell_pic](https://github.com/user-attachments/assets/ae5cd429-642f-469f-a391-b597a03dbe50)
+![tasker_watkins](https://github.com/user-attachments/assets/79001c8d-0556-41ab-b2a4-02d3ee339381)
+
+
 
 ## The Man Who Never Was, 1953 
 Montagu told his story in The Man Who Never Was. The book was later adapted for the cinema in 1956 under the same title. The story has since been retold in another film, Operation Mincemeat in 2022, and as a popular West End musical.
@@ -257,13 +258,13 @@ Montagu told his story in The Man Who Never Was. The book was later adapted for 
 Elsie Bowerman was Called to the Bar in 1924. Before joining the Inn, she had survived the sinking of the Titanic, witnessed the start of the Russian Revolution in Petrograd, and been active in the suffrage movement.
 During the Second World War, she worked at the Ministry of Information and with the Women’s Voluntary Service. Following the war she helped to set up the UN Commission on the Status of Women.
 <param ve-image
-       url="https://github.com/user-attachments/assets/bebacb04-ca7b-41cb-8238-8a73e0ccbd87">
+       url="https://github.com/user-attachments/assets/38a8d5b2-0196-4cc2-b057-75c8d04d459e">
 
 ## Sir Stafford Cripps (1889-1952) 
-Stafford Cripps was Called in 1913 and appointed KC in 1926, and later became a Labour Party politician, serving as Solicitor General from 1931 under Ramsay MacDonald. 
+Stafford Cripps was Called in 1913 and appointed KC in 1926, and later became a Labour Party politician, serving as Solicitor General from 1931 under Ramsay MacDonald. <br /><br />
 Cripps was appointed Ambassador to the Soviet Union by Churchill in 1940, and helped to forge the alliance with Moscow following Hitler’s invasion in 1941. He served in various wartime cabinet positions including Leader of the House of Commons and Minister of Aircraft Production, in which he played a key role in support of Air Chief Marshal Harris’ bombing campaign against Germany. He later served in the Attlee government from 1945 to 1950.
 <param ve-image
-       url="https://github.com/user-attachments/assets/896b54b4-c501-41bd-99ad-be7459779fc3">
+       url="https://github.com/user-attachments/assets/f871f1e5-f38d-40d2-8b1d-2439f34e755d">
 
 ## Stella Isaacs, Marchioness of Reading and Baroness Swanborough (1894-1971) 
 Stella Isaacs was the widow of Rufus Isaacs, Marquess of Reading, Lord Chief Justice, Viceroy of India and Middle Templar, whose portrait hangs in the Parliament Chamber. 
@@ -273,7 +274,7 @@ In 1938 she was asked by the government to set up what would go on to be called 
 ## Sybil Campbell (1889-1977) 
 Sybil Campbell was one of the first cohort of nine women Called to the Bar at the Inn in 1922, going on to practice as a barrister. During the war she served as Principal Enforcement Officer at the Ministry of Food, prosecuting the many infringements of rationing regulations. She was appointed an OBE in 1942 for this service. In 1945, she became the first female stipendiary magistrate.
 <param ve-image
-       url="https://github.com/user-attachments/assets/69e17097-6f73-4ab2-82d9-18db335a7221">
+       url="https://github.com/user-attachments/assets/ae5cd429-642f-469f-a391-b597a03dbe50">
 
 ## Military Service 
 Hundreds of members of the Middle Temple served in the British armed forces throughout the Second World War. Whether serving on the front line as soldiers, pilots or sailors, as military lawyers or medical officers, or holding senior staff appointments, the contribution of Middle Templars to the military struggle was extensive and profound. Many were killed in action or captured as prisoners of war, and several showed outstanding heroism. 
@@ -284,15 +285,15 @@ Anthony Babington grew up in India and England and served with the Royal Ulster 
 ## Sir Tasker Watkins (1918-2007) 
 Tasker Watkins joined the British Army in 1939 and arrived in Normandy with the 53rd (Welsh) Infantry Division shortly after the D-Day landings. He fought in the battle of the Falaise Pocket and was awarded the VC for his gallantry, which is described in detail above.
 <param ve-image
-       url="https://github.com/user-attachments/assets/12dc3f19-c656-4d7f-aec0-3964c4af99cb">
+       url="https://github.com/user-attachments/assets/79001c8d-0556-41ab-b2a4-02d3ee339381">
 
 ## Needs Must: The History of the Inns of Court Regiment, 1940-1945, A.F. Taggart, 1949 
-The Inns of Court Regiment existed between 1932 and 1961, but succeeded bodies dating back centuries such as the Inns of Court Rifle Volunteers and the Bloomsbury Inns of Court Volunteers.
-The regiment saw active service as an armoured car unit during the Second World War, participating in the D-Day landings and throughout the subsequent campaign across Europe.
+The Inns of Court Regiment existed between 1932 and 1961, but succeeded bodies dating back centuries such as the Inns of Court Rifle Volunteers and the Bloomsbury Inns of Court Volunteers.<br /><br />
+The regiment saw active service as an armoured car unit during the Second World War, participating in the D-Day landings and throughout the subsequent campaign across Europe.<br /><br />
 This volume records the regiment’s wartime story and was donated to the Inn in 1949 by the Commanding Officer and officers of the regiment.
 
 ## Jeremy Hutchinson (1915-2017) 
-Jeremy Hutchinson was Called in 1939 but shortly afterwards joined the Royal Naval Volunteer Reserve. He was aboard the destroyer HMS Kelly during the Battle of Crete in 1941, surviving its sinking. He prosecuted his first case while posted in Italy in 1944. 
+Jeremy Hutchinson was Called in 1939 but shortly afterwards joined the Royal Naval Volunteer Reserve. He was aboard the destroyer HMS Kelly during the Battle of Crete in 1941, surviving its sinking. He prosecuted his first case while posted in Italy in 1944. <br /><br />
 As a barrister, he led several notable defences including of Penguin Books in the Lady Chatterley trial and of Kempton Bunton, on trial for the theft of Goya’s portrait of the Duke of Wellington. 
 <param ve-image
        url="https://github.com/user-attachments/assets/ef74be57-aac3-407e-a0ad-3aff34a96cab">
