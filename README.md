@@ -212,15 +212,15 @@ After its destruction in 1940, the splintered fragments of the screen were gathe
 <param ve-image
        url="https://github.com/user-attachments/assets/f4d98280-7724-4afc-9126-11d71edec7a1">
 
- ##
- ![screen_restoration](https://github.com/user-attachments/assets/f4d98280-7724-4afc-9126-11d71edec7a1)
-
-
-
-
-
 ## Restoration work in Hall, c1946
 This photograph shows the restoration of Hall at an early stage, with work underway on the reconstruction of the screen and gallery.
+<param ve-image
+       url="https://github.com/user-attachments/assets/16c52614-2e6f-4b83-8047-02d6d7abe147">
+
+
+##
+
+![restoration_of_the_hall](https://github.com/user-attachments/assets/16c52614-2e6f-4b83-8047-02d6d7abe147)
 
 ## Application for increase of Rations and Points, 1947 
 In this note, the Under Treasurer writes to the Food Office with details of hot beverages and meals served at the Inn in the past four weeks. Rationing would not formally be ended until 1954.
