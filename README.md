@@ -342,9 +342,6 @@ This photograph shows the inside of the courtroom at Nuremberg. It depicts G.D. 
 <param ve-image
        url="https://github.com/user-attachments/assets/3a24af37-e797-447a-a00e-c272d3625321">
 
-![courtroom_at_nuremberg](https://github.com/user-attachments/assets/3a24af37-e797-447a-a00e-c272d3625321)
-
-
 ## Members of the British delegation at Nuremberg 
 This photograph shows members the British delegation at the airport, including Sir David Maxwell Fyfe, Sir Henry MacGeagh and G.D. ‘Khaki’ Roberts.
 <param ve-image
