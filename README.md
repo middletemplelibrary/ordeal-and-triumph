@@ -141,47 +141,58 @@ This photograph shows members of the Royal Rifle Corps exercising in the garden.
 <param ve-image
        url="https://github.com/user-attachments/assets/5acdf2bd-4d5d-4365-897f-a3f08a875b91">
 
-       ##
-![royal_life_corps_at_mt](https://github.com/user-attachments/assets/5acdf2bd-4d5d-4365-897f-a3f08a875b91)
-
-
-
 ## The Ordeal
 After the long months of preparation and waiting, the Blitz began on 7 September 1940, and the first bombs fell on the Inn a few weeks later, hitting 1 Elm Court. The Under Treasurer, Fireman and Cashier were all fire-watching on top of 4 Elm Court when the building was hit. “Well, we thought that was enough of that”, wrote the Under Treasurer later on. Over the next weeks and months, hundreds more bombs would fall, causing catastrophic damage to chambers buildings, Temple Church, the Library and the Hall. 
 <br><br>
 It was thanks to the preparation, training, endurance and bravery of the many volunteers that the damage was not greater still, and that no lives were lost in the Inn. 
 <br><br>
 While the Blitz came to an end in May 1941, the ordeal was not yet over. Raids recommenced in 1944, causing further devastation to the buildings of the Inn.
-
-## Notice concerning Temple Air Raid Shelters, 1940 
-This notice highlights the importance of proper and safe use of the air raid shelters in the Temple, now required on a near-nightly basis.
 <param ve-image
-       url="https://github.com/user-attachments/assets/3a6f39f9-01a4-4ab5-9265-f8a0f1f42b08">
+       url="https://github.com/user-attachments/assets/42c6f34f-ea91-453a-be78-036798c6d33d">
 
 ## Interior of Middle Temple Hall, October 1940 
 On the night of 15 October 1940, a parachute mine shattered several buildings and sent masonry and debris through the East Gable of the Hall, reducing much of the Elizabethan screen and Minstrels’ Gallery to smithereens.
 <param ve-image
-       url="https://github.com/user-attachments/assets/37cb8db9-341f-4a24-88e3-abd0def35d2f">
+       url="https://github.com/user-attachments/assets/42c6f34f-ea91-453a-be78-036798c6d33d">
+
+## Notice concerning Temple Air Raid Shelters, 1940 
+This notice highlights the importance of proper and safe use of the air raid shelters in the Temple, now required on a near-nightly basis.
+<param ve-image
+       url="https://github.com/user-attachments/assets/f3be11b7-e4af-4f99-990c-8928fa880db3">
+
+##
+
+ ![full_view_of_hall](https://github.com/user-attachments/assets/42c6f34f-ea91-453a-be78-036798c6d33d)
+ ![air_raid_shelter_notice](https://github.com/user-attachments/assets/f3be11b7-e4af-4f99-990c-8928fa880db3)
+
+![middle_temple_lane_damage](https://github.com/user-attachments/assets/1c7d485b-caec-49ef-97e8-f86d8a1154a1)
+![more_damage_on_the_lane](https://github.com/user-attachments/assets/c1eb81a8-4332-4c24-a7e2-dd88af23f288)
+
+![wartime_recollections](https://github.com/user-attachments/assets/32a803a9-1ea8-435e-83fb-0ad5711544e8)
+![middle_temple_library](https://github.com/user-attachments/assets/8832e4b7-e286-4312-9c2f-20f85506d269)
+
+
 
 ## Middle Temple Lane, October 1940 
 This view down Middle Temple captures the aftermath of the devastation of 15 October 1940, in which Elm Court was destroyed and the Hall badly damaged.
 <param ve-image
-       url="https://github.com/user-attachments/assets/cd617ffa-a44b-428b-83ed-8310a76d1111">
+       url="https://github.com/user-attachments/assets/1c7d485b-caec-49ef-97e8-f86d8a1154a1">
+
 
 ## Elm Court, Autumn 1940 
 Elm Court was devastated during the Blitz, being hit on the first night on which bombs fell in the Temple, and then utterly destroyed on October 15. This photograph shows chambers interiors which have been revealed by the bombing.
 <param ve-image
-       url="https://github.com/user-attachments/assets/61548da9-8d58-4c9f-a5f3-d6705b50ccd5">
+       url="https://github.com/user-attachments/assets/c1eb81a8-4332-4c24-a7e2-dd88af23f288">
 
 ## Wartime recollections of C.J. Liddell King, 1946 
 In this account C.J. Liddell King, a Temple resident and volunteer fire-watcher, vividly recalls the morning after the devastating raid of May 1941 in which the Temple Church was destroyed.
 <param ve-image
-       url="https://github.com/user-attachments/assets/73441a28-f5a7-47fe-a876-d61b64f4610a">
+       url="https://github.com/user-attachments/assets/32a803a9-1ea8-435e-83fb-0ad5711544e8">
 
 ## Middle Temple Library, December 1940 
 On the night of 8 December 1940, a bomb fell in the garden, close to the Inn’s library. The south window was destroyed and bookcases were splintered and emptied of their books. This photograph shows three people surveying the aftermath.
 <param ve-image
-       url="https://github.com/user-attachments/assets/373d801c-cab3-41f1-a21c-7d1c7b732937">
+       url="https://github.com/user-attachments/assets/8832e4b7-e286-4312-9c2f-20f85506d269">
 
 ## Pump Court, May 1941 
 This photograph shows damage to Pump Court following the devastating raid of May 10-11 1941. Water from firemen’s hoses floods the court, and the ruins of the Cloisters can be seen in the distance, with still-smouldering debris beyond.
