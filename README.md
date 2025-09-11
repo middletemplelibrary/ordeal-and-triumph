@@ -78,22 +78,16 @@ Shortly before the start of the war, the 1608 Letters Patent issued by James I w
 They were later moved to the nearby medieval church of St Mary at Llan, near Llanbrynmair. A small notice in the Church today records that it played host to these collections for the duration of war. 
 <param ve-image
        label="Letter regarding Movements"
-       url="https://github.com/user-attachments/assets/56e4feeb-fc5c-4767-8983-cf50a98c7cf9">
-
-       ##
-![movements_letter](https://github.com/user-attachments/assets/56e4feeb-fc5c-4767-8983-cf50a98c7cf9)
-
-       
+       url="https://github.com/user-attachments/assets/56e4feeb-fc5c-4767-8983-cf50a98c7cf9">    
 
 ## Blackout
 The outbreak of war was followed by a cold, snowy winter and the enforcement of the Blackout across London. The fear of night air bombing attacks led to strict regulations, in force from 1 September 1939, calling for windows and doors to be covered at night to prevent the escape of any light which might aid enemy aircraft. 
 The Inn was no exception to these rules, and ARP wardens patrolled the Temple by night, identifying violations - of which there were many. 
-<br><br>
+<param ve-image
+       url="https://github.com/user-attachments/assets/eaf5d1c6-4146-4148-bd9e-b11970908f98">
 
 ## Volume recording Blackout Violations, 1940-1941
 This volume reports breaches of blackout regulations in the Temple and action taken, and remarks and complaints by shelter marshals.
-<param ve-image
-       url="https://github.com/user-attachments/assets/eaf5d1c6-4146-4148-bd9e-b11970908f98">
 
 ## Notice Regarding Blackout Violations, 1939
 This notice reminds residents of the importance of adhering to Blackout regulations, and notes the necessity of taking steps to extinguish lights around the Temple.
