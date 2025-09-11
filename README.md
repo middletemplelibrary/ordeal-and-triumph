@@ -100,25 +100,21 @@ This notice reminds residents of the importance of adhering to Blackout regulati
        url="https://github.com/user-attachments/assets/bd8cb3b2-a39f-4c3e-b4c1-d48f0ba9c523">
 
 ## ‘In an Air Raid… If You Are at Home’ poster, c1940
-![arp_notice](https://github.com/user-attachments/assets/bd8cb3b2-a39f-4c3e-b4c1-d48f0ba9c523)
-
-
-add text.
+_add text here_
 <param ve-image
        url="https://github.com/user-attachments/assets/32bf5fe1-881c-4868-a2a5-7fecc0911ece">
-
 
 ## The Changing Environment
 The ongoing war effort brought many changes to the physical environment of the Inn. From the digging of allotments in the garden to grow produce, in line with the national ‘Dig for Victory’ campaign, to the introduction of reservoirs and water pipes for firefighting, formerly ornamental spaces were put to practical use. The Middle Temple and the Inner Temple made a gift to the government of the iron railings surrounding the Temple Church. 
 <br><br>
 Military uniforms were to be seen in increasing numbers in and around the Temple, with soldiers exercising in the garden, RAF men in charge of a nearby Barrage Balloon, and the requisitioning by the Royal Navy of the ‘Temple Steps’ on the Thames.
-<br><br>
+<param ve-image
+       url="https://github.com/user-attachments/assets/d77cb3c4-06a4-4ad8-b3f3-90066ab096ae">
 
 ## The Fountain transformed into a reservoir, 1941 
 A good supply of water was critical to efforts to fight fires resulting from bombing raids. The Inn’s 17th century fountain was transformed, at the request of the National Fire Service, into a reservoir for water in the summer of 1941.
 <param ve-image
        url="https://github.com/user-attachments/assets/d77cb3c4-06a4-4ad8-b3f3-90066ab096ae">
-
 
 ## Plan of proposed pipe line, Middle Temple Lane, 1943 
 Throughout the war the Inn worked closely with the National Fire Service, housing and purchasing fire engines, hoses and pumps at their recommendation and request. In 1943, the NFS provided this plan, accompanying a request to bury a steel pipe under Middle Temple Lane to aid water supply for fire-fighting.
