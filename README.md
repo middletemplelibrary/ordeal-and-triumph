@@ -217,11 +217,6 @@ This photograph shows the restoration of Hall at an early stage, with work under
 <param ve-image
        url="https://github.com/user-attachments/assets/16c52614-2e6f-4b83-8047-02d6d7abe147">
 
-
-##
-
-![restoration_of_the_hall](https://github.com/user-attachments/assets/16c52614-2e6f-4b83-8047-02d6d7abe147)
-
 ## Application for increase of Rations and Points, 1947 
 In this note, the Under Treasurer writes to the Food Office with details of hot beverages and meals served at the Inn in the past four weeks. Rationing would not formally be ended until 1954.
 <param ve-image
@@ -229,6 +224,10 @@ In this note, the Under Treasurer writes to the Food Office with details of hot 
 
 ## Queen Elizabeth at the re-opening of Hall, 1949
 By 1949, the Hall had been restored, and Queen Elizabeth, serving in that year as the Inn’s Treasurer, formally re-opened the building on July 6.
+<param ve-image
+       url="https://github.com/user-attachments/assets/d7313d3b-7a2b-47b8-8027-59be8de4b52b">
+
+![queen_reopening_hall](https://github.com/user-attachments/assets/d7313d3b-7a2b-47b8-8027-59be8de4b52b)
 
 ## Intelligence, Government and the Home Front
 Countless Middle Templars contributed to the war effort behind the scenes and at home - at the highest levels of military intelligence and government, as participants in the many organisations and initiatives which sprung up over the war years, and, often unrecorded, in their everyday lives.
@@ -251,6 +250,11 @@ A KC and Bencher of the Inn, Ewen Montagu was assigned to the Naval Intelligence
 
 ## The Man Who Never Was, 1953 
 Montagu told his story in The Man Who Never Was. The book was later adapted for the cinema in 1956 under the same title. The story has since been retold in another film, Operation Mincemeat in 2022, and as a popular West End musical.
+<param ve-image
+       url="https://github.com/user-attachments/assets/24479bb1-6a5f-4b26-b5d4-7a8747066ed9">
+       
+![the_man_who_never_was](https://github.com/user-attachments/assets/24479bb1-6a5f-4b26-b5d4-7a8747066ed9)
+
 
 ## Elsie Bowerman (1889-1973) 
 Elsie Bowerman was Called to the Bar in 1924. Before joining the Inn, she had survived the sinking of the Titanic, witnessed the start of the Russian Revolution in Petrograd, and been active in the suffrage movement.
