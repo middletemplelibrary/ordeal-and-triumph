@@ -100,8 +100,9 @@ This notice reminds residents of the importance of adhering to Blackout regulati
        url="https://github.com/user-attachments/assets/bd8cb3b2-a39f-4c3e-b4c1-d48f0ba9c523">
 
 ## ‘In an Air Raid… If You Are at Home’ poster, c1940
-_add text here_
+One of a series of posters produced on how to react during an air raid. 
 <param ve-image
+       label="Image: IWM (Art.IWM PST 13872)"
        url="https://github.com/user-attachments/assets/32bf5fe1-881c-4868-a2a5-7fecc0911ece">
 
 ## The Changing Environment
@@ -127,8 +128,9 @@ By the summer of 1940, it was reported in the Observer that the old tennis court
        url="https://github.com/user-attachments/assets/ff28df2e-b500-4fa3-a98d-cc7d6da25ff6">
 
 ## ‘Dig for Victory’ poster, 1942 
-add text.
+A poster launched during WWII encouraging people to cultivate gardens and allotments.
 <param ve-image
+       label="Image: IWM (Art.IWM PST 0059)"
        url="https://github.com/user-attachments/assets/97ae090f-6e2f-465b-abe2-b460dbfd0db6">
 
 ## The Kitchen Garden, 2025 
@@ -207,6 +209,8 @@ Just as Her Majesty had predicted, in the long years following the war the Inn c
 
 ## Restoration of the Screen, 1940s
 After its destruction in 1940, the splintered fragments of the screen were gathered up into some 200 sacks. Following the war, these pieces were painstaking reassembled in what may be the biggest jigsaw puzzle in history, based on surviving drawings.
+<param ve-image
+       url="https://github.com/user-attachments/assets/a6cf83c1-06ba-4133-a027-f91e0293fe8d">
 
 ## Restoration work in Hall, c1946
 This photograph shows the restoration of Hall at an early stage, with work underway on the reconstruction of the screen and gallery.
