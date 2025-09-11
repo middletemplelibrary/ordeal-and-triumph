@@ -3,19 +3,12 @@
        author="Middle Temple Library"
        banner="https://github.com/user-attachments/assets/9790b0f0-5b88-4257-ab74-0a1fb099e131"
        layout="vertical">
-
-
-
-       
 ## 
 Welcome to Middle Temple Library’s exhibition on Middle Temple and the Second World War. 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
 ##
-![hall_pic](https://github.com/user-attachments/assets/9790b0f0-5b88-4257-ab74-0a1fb099e131)
-
-
 
 2025 marks eighty years since the end of the Second World War. Using material from the Inn’s Archive and Library collections, this exhibition explores the wartime experience of the Middle Temple and its members. 
 <br><br>
@@ -25,15 +18,13 @@ Countless Middle Templars made their own remarkable contributions to the wider w
 <br><br>
 Below are some of the items it featured.
 
-#### Fragment of the Hall Screen
+## Fragment of the Hall Screen
 This fragment of wood is thought to have come from the Elizabethan screen in the Hall, blown to smithereens during the Blitz in October 1940.
-
 <param ve-image
        label="Fragment of the Screen"
        url="https://github.com/user-attachments/assets/d0c842e8-fb94-450b-aa9e-a42a849b4137">
 
-
-#### Call to the Bar in the bomb-damaged Hall, Trinity 1941.
+## Call to the Bar in the bomb-damaged Hall, Trinity 1941.
 The Hall was badly damaged during the Blitz, in October 1940. The basic functions of the Inn continued, however, including the ancient ceremony of Call to the Bar.
 <br><br>
 This photograph shows a Call ceremony taking place with the shored-up hole made in the East gable of Hall above, with one of those being Called lined up in uniform. 
