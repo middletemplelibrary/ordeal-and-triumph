@@ -210,7 +210,14 @@ Just as Her Majesty had predicted, in the long years following the war the Inn c
 ## Restoration of the Screen, 1940s
 After its destruction in 1940, the splintered fragments of the screen were gathered up into some 200 sacks. Following the war, these pieces were painstaking reassembled in what may be the biggest jigsaw puzzle in history, based on surviving drawings.
 <param ve-image
-       url="https://github.com/user-attachments/assets/a6cf83c1-06ba-4133-a027-f91e0293fe8d">
+       url="https://github.com/user-attachments/assets/f4d98280-7724-4afc-9126-11d71edec7a1">
+
+ ##
+ ![screen_restoration](https://github.com/user-attachments/assets/f4d98280-7724-4afc-9126-11d71edec7a1)
+
+
+
+
 
 ## Restoration work in Hall, c1946
 This photograph shows the restoration of Hall at an early stage, with work underway on the reconstruction of the screen and gallery.
