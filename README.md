@@ -244,7 +244,12 @@ Eric Sachs was Called in 1921 and became a KC in 1938. He joined the War Office 
 The Basic Handbooks were a series of volumes produced under the leadership of Master Eric Sachs as Director of the Directorate of Political Warfare Intelligence, covering in extensive detail enemy countries and those in enemy occupation. They encompass information on administration, politics, economics, history and national characteristics. <br /><br />
 The goal of the handbooks was to provide guidance to Commanders-in-Chief and their staffs faced with the need to take over the administration of countries they had liberated or conquered.
 <param ve-image
-       url="https://github.com/user-attachments/assets/5311fc2f-825d-4161-998b-8c34b5d19d23">
+       url="https://github.com/user-attachments/assets/ecface30-ee84-4418-8488-ed893162f31a">
+
+##
+
+![gerbb](https://github.com/user-attachments/assets/ecface30-ee84-4418-8488-ed893162f31a)
+
 
 ## Ewen Edward Samuel Montagu (1901-1985) 
 A KC and Bencher of the Inn, Ewen Montagu was assigned to the Naval Intelligence Division early in the war. He was responsible for the conception of Operation Mincemeat, a now famous deception operation carried out in 1943. The operation involved a corpse dressed in British military uniform being washed ashore in Spain carrying false papers relating to plans for an invasion of Greece. The operation fooled the Germans, who diverted their forces to Greece and thus away from Sicily, where the real invasion was to take place.
@@ -267,9 +272,6 @@ Stafford Cripps was Called in 1913 and appointed KC in 1926, and later became a 
 Cripps was appointed Ambassador to the Soviet Union by Churchill in 1940, and helped to forge the alliance with Moscow following Hitler’s invasion in 1941. He served in various wartime cabinet positions including Leader of the House of Commons and Minister of Aircraft Production, in which he played a key role in support of Air Chief Marshal Harris’ bombing campaign against Germany. He later served in the Attlee government from 1945 to 1950.
 <param ve-image
        url="https://github.com/user-attachments/assets/5b1cb542-9b3a-43fd-95f5-8173fd4c495a">
-
-![stafford_cripps](https://github.com/user-attachments/assets/5b1cb542-9b3a-43fd-95f5-8173fd4c495a)
-
 
 ## Stella Isaacs, Marchioness of Reading and Baroness Swanborough (1894-1971) 
 Stella Isaacs was the widow of Rufus Isaacs, Marquess of Reading, Lord Chief Justice, Viceroy of India and Middle Templar, whose portrait hangs in the Parliament Chamber. <br /><br />
