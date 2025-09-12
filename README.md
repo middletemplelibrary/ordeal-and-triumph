@@ -249,7 +249,12 @@ The goal of the handbooks was to provide guidance to Commanders-in-Chief and the
 ## Ewen Edward Samuel Montagu (1901-1985) 
 A KC and Bencher of the Inn, Ewen Montagu was assigned to the Naval Intelligence Division early in the war. He was responsible for the conception of Operation Mincemeat, a now famous deception operation carried out in 1943. The operation involved a corpse dressed in British military uniform being washed ashore in Spain carrying false papers relating to plans for an invasion of Greece. The operation fooled the Germans, who diverted their forces to Greece and thus away from Sicily, where the real invasion was to take place.
 <param ve-image
-       url="https://github.com/user-attachments/assets/a6248b50-2434-4913-9457-c7fdd09d6b22">
+       url="https://github.com/user-attachments/assets/c0e9ca57-3db8-4a6f-a430-43e880876617">
+
+##
+![elsie_bowerman](https://github.com/user-attachments/assets/c0e9ca57-3db8-4a6f-a430-43e880876617)
+
+
 
 ## The Man Who Never Was, 1953 
 Montagu told his story in The Man Who Never Was. The book was later adapted for the cinema in 1956 under the same title. The story has since been retold in another film, Operation Mincemeat in 2022, and as a popular West End musical.
