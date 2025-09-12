@@ -26,11 +26,6 @@ This fragment of wood is thought to have come from the Elizabethan screen in the
        label="Fragment of the Screen"
        url="https://github.com/user-attachments/assets/d0c842e8-fb94-450b-aa9e-a42a849b4137">
 
-##
-![mtordeal](https://github.com/user-attachments/assets/085ae876-03f7-4cb6-a11a-38fa380e1895)
-
-
-
 
 ## Call to the Bar in the bomb-damaged Hall, Trinity 1941.
 The Hall was badly damaged during the Blitz, in October 1940. The basic functions of the Inn continued, however, including the ancient ceremony of Call to the Bar.
