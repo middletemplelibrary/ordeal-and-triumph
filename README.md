@@ -251,10 +251,6 @@ A KC and Bencher of the Inn, Ewen Montagu was assigned to the Naval Intelligence
 <param ve-image
        url="https://github.com/user-attachments/assets/eb4f17e0-2c2e-47e8-8637-0636cc156b2c">
 
-##
-![ewen_montagu](https://github.com/user-attachments/assets/eb4f17e0-2c2e-47e8-8637-0636cc156b2c)
-
-
 ## The Man Who Never Was, 1953 
 Montagu told his story in The Man Who Never Was. The book was later adapted for the cinema in 1956 under the same title. The story has since been retold in another film, Operation Mincemeat in 2022, and as a popular West End musical.
 <param ve-image
@@ -270,7 +266,10 @@ During the Second World War, she worked at the Ministry of Information and with 
 Stafford Cripps was Called in 1913 and appointed KC in 1926, and later became a Labour Party politician, serving as Solicitor General from 1931 under Ramsay MacDonald. <br /><br />
 Cripps was appointed Ambassador to the Soviet Union by Churchill in 1940, and helped to forge the alliance with Moscow following Hitler’s invasion in 1941. He served in various wartime cabinet positions including Leader of the House of Commons and Minister of Aircraft Production, in which he played a key role in support of Air Chief Marshal Harris’ bombing campaign against Germany. He later served in the Attlee government from 1945 to 1950.
 <param ve-image
-       url="https://github.com/user-attachments/assets/f871f1e5-f38d-40d2-8b1d-2439f34e755d">
+       url="https://github.com/user-attachments/assets/5b1cb542-9b3a-43fd-95f5-8173fd4c495a">
+
+![stafford_cripps](https://github.com/user-attachments/assets/5b1cb542-9b3a-43fd-95f5-8173fd4c495a)
+
 
 ## Stella Isaacs, Marchioness of Reading and Baroness Swanborough (1894-1971) 
 Stella Isaacs was the widow of Rufus Isaacs, Marquess of Reading, Lord Chief Justice, Viceroy of India and Middle Templar, whose portrait hangs in the Parliament Chamber. <br /><br />
