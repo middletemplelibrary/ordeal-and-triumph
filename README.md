@@ -8,7 +8,7 @@ Welcome to Middle Temple Library’s exhibition on Middle Temple and the Second 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
-## An End to War
+## Middle Temple and the Second World War
 2025 marks eighty years since the end of the Second World War. Using material from the Inn’s Archive and Library collections, this exhibition explores the wartime experience of the Middle Temple and its members. 
 <br><br>
 At the Inn, members, residents and staff endured an ordeal of blackouts, bombing, shortages and an ever-changing environment, and worked ceaselessly to protect the Middle Temple and its community from danger. 
