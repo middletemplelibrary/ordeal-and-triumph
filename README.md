@@ -249,11 +249,10 @@ The goal of the handbooks was to provide guidance to Commanders-in-Chief and the
 ## Ewen Edward Samuel Montagu (1901-1985) 
 A KC and Bencher of the Inn, Ewen Montagu was assigned to the Naval Intelligence Division early in the war. He was responsible for the conception of Operation Mincemeat, a now famous deception operation carried out in 1943. The operation involved a corpse dressed in British military uniform being washed ashore in Spain carrying false papers relating to plans for an invasion of Greece. The operation fooled the Germans, who diverted their forces to Greece and thus away from Sicily, where the real invasion was to take place.
 <param ve-image
-       url="https://github.com/user-attachments/assets/c0e9ca57-3db8-4a6f-a430-43e880876617">
+       url="https://github.com/user-attachments/assets/eb4f17e0-2c2e-47e8-8637-0636cc156b2c">
 
 ##
-![elsie_bowerman](https://github.com/user-attachments/assets/c0e9ca57-3db8-4a6f-a430-43e880876617)
-
+![ewen_montagu](https://github.com/user-attachments/assets/eb4f17e0-2c2e-47e8-8637-0636cc156b2c)
 
 
 ## The Man Who Never Was, 1953 
@@ -265,7 +264,7 @@ Montagu told his story in The Man Who Never Was. The book was later adapted for 
 Elsie Bowerman was Called to the Bar in 1924. Before joining the Inn, she had survived the sinking of the Titanic, witnessed the start of the Russian Revolution in Petrograd, and been active in the suffrage movement.
 During the Second World War, she worked at the Ministry of Information and with the Women’s Voluntary Service. Following the war she helped to set up the UN Commission on the Status of Women.
 <param ve-image
-       url="https://github.com/user-attachments/assets/38a8d5b2-0196-4cc2-b057-75c8d04d459e">
+       url="https://github.com/user-attachments/assets/c0e9ca57-3db8-4a6f-a430-43e880876617">
 
 ## Sir Stafford Cripps (1889-1952) 
 Stafford Cripps was Called in 1913 and appointed KC in 1926, and later became a Labour Party politician, serving as Solicitor General from 1931 under Ramsay MacDonald. <br /><br />
