@@ -314,7 +314,12 @@ Laetitia Fairfield had been a senior Medical Officer in the Women’s Army Auxil
 ## John Henry Clavell Smythe (1915-1996) 
 Born in colonial Sierra Leone, Smythe joined the Royal Air Force in 1943. He flew bombing raids over Germany as one of the few Black airmen before being shot down and captured, spending 18 months as a prisoner of war in Stalag Luft I. After the war he joined the Inn and while a student he worked for the Colonial Office, in which capacity he served as the senior Colonial Office official on the Empire Windrush. After his Call to the Bar, he returned to Sierra Leone, where he rose to be a QC and Attorney General. 
 <param ve-image
-       url="https://github.com/user-attachments/assets/5b9366a3-30df-462a-91d1-7a99bc6f3382">
+       url="https://github.com/user-attachments/assets/127ac350-6f81-4328-8bdf-c6e3bed18b6a">
+
+##
+
+![jhclavellsmythe](https://github.com/user-attachments/assets/127ac350-6f81-4328-8bdf-c6e3bed18b6a)
+
 
 ## Middle Templars killed on Active Service 
 A newspaper advertisement placed in 1961 requested information about members of the Inn killed on active service in the Second World War. These two letters, received in response, report the deaths of Major John Sydney Krill, killed in action in Melun, France in August 1944, and Alfred Maria de Lourde Soares, who died building the Siam Railway after Singapore had been overrun by the Japanese.
