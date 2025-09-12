@@ -246,11 +246,6 @@ The goal of the handbooks was to provide guidance to Commanders-in-Chief and the
 <param ve-image
        url="https://github.com/user-attachments/assets/ecface30-ee84-4418-8488-ed893162f31a">
 
-##
-
-![gerbb](https://github.com/user-attachments/assets/ecface30-ee84-4418-8488-ed893162f31a)
-
-
 ## Ewen Edward Samuel Montagu (1901-1985) 
 A KC and Bencher of the Inn, Ewen Montagu was assigned to the Naval Intelligence Division early in the war. He was responsible for the conception of Operation Mincemeat, a now famous deception operation carried out in 1943. The operation involved a corpse dressed in British military uniform being washed ashore in Spain carrying false papers relating to plans for an invasion of Greece. The operation fooled the Germans, who diverted their forces to Greece and thus away from Sicily, where the real invasion was to take place.
 <param ve-image
@@ -304,7 +299,12 @@ This volume records the regiment’s wartime story and was donated to the Inn in
 Jeremy Hutchinson was Called in 1939 but shortly afterwards joined the Royal Naval Volunteer Reserve. He was aboard the destroyer HMS Kelly during the Battle of Crete in 1941, surviving its sinking. He prosecuted his first case while posted in Italy in 1944. <br /><br />
 As a barrister, he led several notable defences including of Penguin Books in the Lady Chatterley trial and of Kempton Bunton, on trial for the theft of Goya’s portrait of the Duke of Wellington. 
 <param ve-image
-       url="https://github.com/user-attachments/assets/4a104018-130f-4e39-84a1-d15cf87e66d6">
+       url="https://github.com/user-attachments/assets/694d99d5-2964-4228-b97f-b909573d6745">
+
+##
+
+
+![jeremy_hutchinson](https://github.com/user-attachments/assets/694d99d5-2964-4228-b97f-b909573d6745)
 
 ## Laetitia Fairfield (1885-1978)
 Laetitia Fairfield had been a senior Medical Officer in the Women’s Army Auxiliary Corps and the Royal Air Force during the First World War. In between the wars, she was Called to the Bar and was involved with various public health initiatives in London. During the Second World War she was appointed Senior Woman Medical Officer of the Armed Forces by the War Office.
